@@ -202,6 +202,44 @@
 									"caption": "",
 									"seoSuffix": "modern"
 								}
+							},
+							{
+								"public_id": "modernFamily_NK9y_bJjk_np3r",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_NK9y_bJjk_np3r.mp4?generation=1571092094753426&alt=media",
+								"size": "977008",
+								"lastModified": 1571091967017,
+								"lastModifiedDate": "2019-10-14T22:28:14.753Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"extension": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_NK9y_bJjk_np3r.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_NK9y_bJjk_np3r.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_NK9y_bJjk_np3r"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily_nk9y_bjjk"
+								}
 							}
 						],
 						"fieldChildren": []
