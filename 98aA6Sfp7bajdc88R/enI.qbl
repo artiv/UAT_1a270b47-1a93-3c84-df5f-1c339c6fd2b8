@@ -88,6 +88,44 @@
 									"caption": "",
 									"seoSuffix": "s11_hswz"
 								}
+							},
+							{
+								"public_id": "rtf_XZTv_h5ww",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Frtf_XZTv_h5ww.mp4?generation=1571086852374993&alt=media",
+								"size": "3318462",
+								"lastModified": 1571077386379,
+								"lastModifiedDate": "2019-10-14T21:00:52.374Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"extension": "mp4",
+								"duration": 11.584,
+								"width": 3360,
+								"height": 2100,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/rtf_XZTv_h5ww.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/rtf_XZTv_h5ww.mp4"
+								],
+								"transformedPublicIds": [
+									"rtf_XZTv_h5ww"
+								],
+								"embed": {
+									"width": 3360,
+									"height": 2100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "rtf_xztv"
+								}
 							}
 						],
 						"fieldChildren": []
