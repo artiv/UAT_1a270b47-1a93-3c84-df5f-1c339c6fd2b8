@@ -72,17 +72,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "I'm a cool guy. That's that's my Fang.",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -91,7 +91,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bm13a",
+													"key": "drr93",
 													"text": "I'm a cool guy. That's that's my Fang.",
 													"type": "unstyled",
 													"depth": 0,
@@ -127,17 +127,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "I'm here 5 i surf the web I",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -146,7 +146,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "45rl9",
+													"key": "fmkua",
 													"text": "I'm here 5 i surf the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -182,17 +182,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "text",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -201,7 +201,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ovit",
+													"key": "f3gnh",
 													"text": "text",
 													"type": "unstyled",
 													"depth": 0,
@@ -237,17 +237,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "LOL.",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -256,7 +256,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aftp7",
+													"key": "biegt",
 													"text": "LOL.",
 													"type": "unstyled",
 													"depth": 0,
@@ -292,17 +292,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Laugh out loud",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -311,7 +311,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dfml8",
+													"key": "fed25",
 													"text": "Laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -347,17 +347,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "OMG. Oh my God",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -366,7 +366,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9jhej",
+													"key": "f572h",
 													"text": "OMG. Oh my God",
 													"type": "unstyled",
 													"depth": 0,
@@ -402,17 +402,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "WTF why the FaZe?",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -421,7 +421,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dofq5",
+													"key": "7h524",
 													"text": "WTF why the FaZe?",
 													"type": "unstyled",
 													"depth": 0,
@@ -457,17 +457,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "You know, I know all the dances High School Musical",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -476,7 +476,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4vh3e",
+													"key": "892s2",
 													"text": "You know, I know all the dances High School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -512,17 +512,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "We're All",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -531,7 +531,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5b50r",
+													"key": "c283q",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -567,17 +567,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "in This",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -586,7 +586,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f5bph",
+													"key": "e66b5",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -622,17 +622,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Together.",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -641,7 +641,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d31kg",
+													"key": "ak56r",
 													"text": "Together.",
 													"type": "unstyled",
 													"depth": 0,
@@ -677,17 +677,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Yes, we are",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -696,7 +696,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ddk95",
+													"key": "cgf0n",
 													"text": "Yes, we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -732,17 +732,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "we're all",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -751,7 +751,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3kpa8",
+													"key": "7i1ba",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -787,17 +787,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "stars",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -806,7 +806,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e6e38",
+													"key": "6pn1v",
 													"text": "stars",
 													"type": "unstyled",
 													"depth": 0,
@@ -842,17 +842,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "and",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -861,7 +861,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dvh9g",
+													"key": "9bjeb",
 													"text": "and",
 													"type": "unstyled",
 													"depth": 0,
@@ -897,17 +897,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "you know",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -916,7 +916,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "epghp",
+													"key": "b6d9q",
 													"text": "you know",
 													"type": "unstyled",
 													"depth": 0,
@@ -952,17 +952,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "it",
 										"font": "Noto Sans",
-										"size": 30,
+										"size": 16,
 										"color": {
-											"hex": "#fc0b0b",
+											"hex": "#dd1919",
 											"rgb": {
-												"r": 252,
-												"g": 11,
-												"b": 11,
+												"r": 221,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -971,7 +971,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9veqh",
+													"key": "q8dv",
 													"text": "it",
 													"type": "unstyled",
 													"depth": 0,
@@ -1116,8 +1116,8 @@
 									"seoSuffix": "modern"
 								},
 								"underlay": {
-									"show": "stripe",
-									"gravity": "center",
+									"show": "background",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
