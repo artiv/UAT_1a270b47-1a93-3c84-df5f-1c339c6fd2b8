@@ -88,6 +88,44 @@
 									"caption": "",
 									"seoSuffix": "modern"
 								}
+							},
+							{
+								"public_id": "modern_5duY",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_5duY.mp4",
+								"size": 1398635,
+								"lastModified": 1571038151662,
+								"lastModifiedDate": "2019-10-14T07:29:11.662Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"extension": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_5duY.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_5duY.mp4"
+								],
+								"transformedPublicIds": [
+									"modern_5duY"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modern"
+								}
 							}
 						],
 						"fieldChildren": []
