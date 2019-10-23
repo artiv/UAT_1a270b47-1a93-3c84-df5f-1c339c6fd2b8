@@ -50,64 +50,7 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
-						"fieldValues": [
-							{
-								"public_id": "modernFamily_bcoc",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_bcoc.mp4?generation=1571854730763606&alt=media",
-								"originalName": "modernFamily",
-								"size": "977008",
-								"lastModified": 1571815304714,
-								"lastModifiedDate": "2019-10-23T07:21:44.714Z",
-								"type": "video/quicktime",
-								"format": "mov",
-								"extension": "mov",
-								"duration": 30.232381,
-								"width": 480,
-								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_bcoc.mp4",
-								"overlays": [],
-								"videoOverlays": [],
-								"audioOverlays": [
-									{
-										"public_id": "modernFamily_bcoc_0",
-										"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_bcoc_0.mp3",
-										"isAttached": true,
-										"isFixed": true,
-										"start_offset": 0,
-										"end_offset": 30.232381
-									},
-									{
-										"public_id": "modernFamily_bcoc_1",
-										"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_bcoc_1.mp3",
-										"isAttached": true,
-										"isFixed": true,
-										"start_offset": 0,
-										"end_offset": 30.232381
-									}
-								],
-								"captions": {},
-								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_bcoc.mp4"
-								],
-								"transformedPublicIds": [
-									"modernFamily_bcoc"
-								],
-								"embed": {
-									"width": 480,
-									"height": 360,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "modernfamily"
-								}
-							}
-						],
+						"fieldValues": [],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
