@@ -89,6 +89,45 @@
 									"caption": "",
 									"seoSuffix": "modern"
 								}
+							},
+							{
+								"public_id": "modernFamily_HD2E",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_HD2E.mov",
+								"originalName": "modernFamily",
+								"size": 686472,
+								"lastModified": 1571815304714,
+								"lastModifiedDate": "2019-10-23T07:21:44.714Z",
+								"type": "video/quicktime",
+								"format": "mov",
+								"extension": "mov",
+								"duration": 30.232381,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FnoAudio_modernFamily_HD2E.mov?generation=1571817035607237&alt=media",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_HD2E.mov"
+								],
+								"transformedPublicIds": [
+									"modernFamily_HD2E"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
 							}
 						],
 						"fieldChildren": []
