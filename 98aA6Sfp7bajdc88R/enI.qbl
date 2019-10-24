@@ -76,7 +76,82 @@
 										"duration": 30.279
 									}
 								],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:03,100 --> 00:00:06,400\nI'm a cool guy. That's that's my thing.\n\n2\n00:00:07,500 --> 00:00:08,400\nI'm happy I\n\n3\n00:00:08,400 --> 00:00:09,500\nsurf the web I\n\n4\n00:00:09,500 --> 00:00:10,100\ntext\n\n5\n00:00:10,100 --> 00:00:10,700\nLOL\n\n6\n00:00:10,700 --> 00:00:11,500\nlaugh out loud\n\n7\n00:00:11,500 --> 00:00:13,200\nOMG. Oh my God\n\n8\n00:00:13,200 --> 00:00:14,700\nWTF why the FaZe?\n\n9\n00:00:14,700 --> 00:00:18,400\nYou know, I know all the dances to High School Musical\n\n10\n00:00:18,400 --> 00:00:19,800\nand so we're\n\n11\n00:00:19,800 --> 00:00:20,900\nall in this\n\n12\n00:00:20,900 --> 00:00:21,600\ntogether.\n\n13\n00:00:21,600 --> 00:00:23,900\nYes, we are\n\n14\n00:00:23,900 --> 00:00:25,300\nall stars.\n",
+									"parsed": [
+										{
+											"start": 3100,
+											"end": 6400,
+											"text": "I'm a cool guy. That's that's my thing."
+										},
+										{
+											"start": 7500,
+											"end": 8400,
+											"text": "I'm happy I"
+										},
+										{
+											"start": 8400,
+											"end": 9500,
+											"text": "surf the web I"
+										},
+										{
+											"start": 9500,
+											"end": 10100,
+											"text": "text"
+										},
+										{
+											"start": 10100,
+											"end": 10700,
+											"text": "LOL"
+										},
+										{
+											"start": 10700,
+											"end": 11500,
+											"text": "laugh out loud"
+										},
+										{
+											"start": 11500,
+											"end": 13200,
+											"text": "OMG. Oh my God"
+										},
+										{
+											"start": 13200,
+											"end": 14700,
+											"text": "WTF why the FaZe?"
+										},
+										{
+											"start": 14700,
+											"end": 18400,
+											"text": "You know, I know all the dances to High School Musical"
+										},
+										{
+											"start": 18400,
+											"end": 19800,
+											"text": "and so we're"
+										},
+										{
+											"start": 19800,
+											"end": 20900,
+											"text": "all in this"
+										},
+										{
+											"start": 20900,
+											"end": 21600,
+											"text": "together."
+										},
+										{
+											"start": 21600,
+											"end": 23900,
+											"text": "Yes, we are"
+										},
+										{
+											"start": 23900,
+											"end": 25300,
+											"text": "all stars."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_pB4X.mp4"
