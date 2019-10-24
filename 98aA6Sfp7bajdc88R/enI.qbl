@@ -71,7 +71,7 @@
 									{
 										"public_id": "Original audio",
 										"isFixed": true,
-										"isAttached": false,
+										"isAttached": true,
 										"start_offset": 0,
 										"end_offset": 30.279,
 										"duration": 30.279
