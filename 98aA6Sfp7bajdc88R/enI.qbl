@@ -52,19 +52,19 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modernFamily_7Dg2_cNxK",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_7Dg2_cNxK.mp4?generation=1571901573504445&alt=media",
+								"public_id": "modernFamily_7Dg2_cNxK_GWEQ",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_7Dg2_cNxK_GWEQ.mp4?generation=1571902719541742&alt=media",
 								"originalName": "modernFamily",
-								"size": "977008",
+								"size": "977016",
 								"lastModified": 1571815304714,
-								"lastModifiedDate": "2019-10-24T07:19:33.504Z",
+								"lastModifiedDate": "2019-10-24T07:38:39.541Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 30.279,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_7Dg2_cNxK.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_7Dg2_cNxK_GWEQ.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [
@@ -79,10 +79,12 @@
 								],
 								"captions": {},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_7Dg2_cNxK.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_7Dg2_cNxK.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_7Dg2_cNxK_GWEQ.mp4"
 								],
 								"transformedPublicIds": [
-									"modernFamily_7Dg2_cNxK"
+									"modernFamily_7Dg2_cNxK",
+									"modernFamily_7Dg2_cNxK_GWEQ"
 								],
 								"embed": {
 									"width": 480,
@@ -97,7 +99,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "modernfamily_7dg2"
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
