@@ -64,7 +64,56 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_SM7z.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ebe4e4",
+											"rgb": {
+												"r": 235,
+												"g": 228,
+												"b": 228,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "10",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cg9h2",
+													"text": "hello",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "hello"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
