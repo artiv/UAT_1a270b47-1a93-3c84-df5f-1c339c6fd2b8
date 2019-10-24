@@ -123,7 +123,8 @@
 										"isFixed": true,
 										"start_offset": 0,
 										"end_offset": 30.232381,
-										"duration": 30.232381
+										"duration": 30.232381,
+										"fileName": "modernFamily_SM7z_0.mp3"
 									},
 									{
 										"public_id": "modernFamily_SM7z_1",
@@ -132,7 +133,8 @@
 										"isFixed": true,
 										"start_offset": 0,
 										"end_offset": 30.232381,
-										"duration": 30.232381
+										"duration": 30.232381,
+										"fileName": "modernFamily_SM7z_1.mp3"
 									}
 								],
 								"captions": {},
