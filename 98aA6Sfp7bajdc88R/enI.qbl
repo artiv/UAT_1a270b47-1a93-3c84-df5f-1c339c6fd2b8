@@ -52,18 +52,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modernFamily_Pmw2_7AwA_aZrC",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_Pmw2_7AwA_aZrC.mp4?generation=1571933225686463&alt=media",
+								"public_id": "modernFamily_Pmw2_7AwA_NmaT",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_Pmw2_7AwA_NmaT.mp4?generation=1572084060678738&alt=media",
 								"originalName": "modernFamily",
-								"size": "539286",
+								"size": "790835",
 								"lastModified": 1571815304714,
-								"lastModifiedDate": "2019-10-24T16:07:05.686Z",
+								"lastModifiedDate": "2019-10-26T10:01:00.678Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.279,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_aZrC.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_NmaT.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -853,7 +853,8 @@
 										"volume": "0.5",
 										"tempo": "2",
 										"start_offset": "0",
-										"end_offset": "30"
+										"end_offset": "30",
+										"fileName": "nsw_LN9J.mp3"
 									}
 								],
 								"captions": {
@@ -936,12 +937,14 @@
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_pB4X.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_aZrC.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_aZrC.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_Pmw2_7AwA_NmaT.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily_Pmw2_7AwA",
 									"modernFamily_Pmw2_7AwA_pB4X",
-									"modernFamily_Pmw2_7AwA_aZrC"
+									"modernFamily_Pmw2_7AwA_aZrC",
+									"modernFamily_Pmw2_7AwA_NmaT"
 								],
 								"embed": {
 									"width": 480,
