@@ -845,6 +845,15 @@
 										"start_offset": 0,
 										"end_offset": 30.279,
 										"duration": 30.279
+									},
+									{
+										"public_id": "nsw_LN9J",
+										"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_LN9J.mp3",
+										"isAttached": true,
+										"volume": "0.5",
+										"tempo": "2",
+										"start_offset": "0",
+										"end_offset": "30"
 									}
 								],
 								"captions": {
