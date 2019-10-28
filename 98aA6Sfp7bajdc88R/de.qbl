@@ -78,7 +78,13 @@
 										"tempo": 1
 									}
 								],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "\n",
+									"parsed": [
+										{}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_KSsK.mp4"
 								],
