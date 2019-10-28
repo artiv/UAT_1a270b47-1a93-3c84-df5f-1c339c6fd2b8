@@ -228,7 +228,110 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/f15n0rfeajr1hhpt2yeo",
+								"captions": {
+									"captionString": "my name is",
+									"parsed": [
+										{}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								},
+								"version": 1572292653,
+								"signature": "96d6aaeea3096aa644b471262a49680b3897d0bc",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-10-28T19:57:33Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 4800,
+								"type": "upload",
+								"etag": "e9852be926a6c9c921302706e04a4f97",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1572292653/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/f15n0rfeajr1hhpt2yeo.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1572292653/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/f15n0rfeajr1hhpt2yeo.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"bit_rate": 32000,
+								"duration": 1.2
+							},
+							{
+								"public_id": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/qprokdzckfqo3pflrra6",
+								"captions": {
+									"captionString": "how are you? I am good. Thank you.",
+									"parsed": [
+										{}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								},
+								"version": 1572292660,
+								"signature": "0bc589d2dcd1991af38e16fc58bd1a59176d82d7",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-10-28T19:57:40Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 10464,
+								"type": "upload",
+								"etag": "14d0b83b213cc17fb00c98e6443455be",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1572292660/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/qprokdzckfqo3pflrra6.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1572292660/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/qprokdzckfqo3pflrra6.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"bit_rate": 32000,
+								"duration": 2.616
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
