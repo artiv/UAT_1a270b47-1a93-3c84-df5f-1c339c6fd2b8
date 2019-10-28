@@ -50,57 +50,7 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
-						"fieldValues": [
-							{
-								"public_id": "modernFamily_fYGc_94BP",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_fYGc_94BP.mp4?generation=1572240454295659&alt=media",
-								"originalName": "modernFamily",
-								"size": "977008",
-								"lastModified": 1571815304714,
-								"lastModifiedDate": "2019-10-28T05:27:34.295Z",
-								"type": "video/mp4",
-								"format": "mp4",
-								"duration": 30.279,
-								"width": 480,
-								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_fYGc_94BP.mp4",
-								"overlays": [],
-								"videoOverlays": [],
-								"audioOverlays": [
-									{
-										"public_id": "Original audio",
-										"isFixed": true,
-										"isAttached": true,
-										"start_offset": 0,
-										"end_offset": 30.279,
-										"duration": 30.279,
-										"volume": 1,
-										"tempo": 1
-									}
-								],
-								"captions": {},
-								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_fYGc_94BP.mp4"
-								],
-								"transformedPublicIds": [
-									"modernFamily_fYGc_94BP"
-								],
-								"embed": {
-									"width": 480,
-									"height": 360,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "modernfamily_fygc"
-								}
-							}
-						],
+						"fieldValues": [],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
@@ -138,7 +88,40 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "nsw_bkBH",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_bkBH.mp3",
+								"originalName": "nsw",
+								"size": 480373,
+								"lastModified": 1571166385146,
+								"lastModifiedDate": "2019-10-15T19:06:25.146Z",
+								"type": "audio/mp3",
+								"format": "mp3",
+								"duration": 30.014688,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_bkBH.mp3",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_bkBH.mp3"
+								],
+								"transformedPublicIds": [
+									"nsw_bkBH"
+								],
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
