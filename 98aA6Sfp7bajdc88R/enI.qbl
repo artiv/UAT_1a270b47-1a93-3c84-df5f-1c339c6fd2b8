@@ -76,6 +76,15 @@
 										"duration": 30.139501,
 										"volume": 1,
 										"tempo": "2"
+									},
+									{
+										"public_id": "nsw_bkBH",
+										"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_bkBH.mp3",
+										"isAttached": true,
+										"volume": 1,
+										"tempo": "2",
+										"start_offset": "0",
+										"end_offset": "0"
 									}
 								],
 								"captions": {},
