@@ -303,7 +303,33 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "de_iKvZ",
+								"captions": {
+									"captionString": "german germany",
+									"parsed": [
+										{}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
