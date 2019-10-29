@@ -67,18 +67,7 @@
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_Wbik.mp4",
 								"overlays": [],
 								"videoOverlays": [],
-								"audioOverlays": [
-									{
-										"public_id": "Original audio",
-										"isFixed": true,
-										"isAttached": true,
-										"start_offset": 0,
-										"end_offset": 30.139501,
-										"duration": 30.139501,
-										"volume": "2",
-										"tempo": 1
-									}
-								],
+								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_Wbik.mp4"
