@@ -100,6 +100,55 @@
 									"caption": "",
 									"seoSuffix": "brc%20global%20standard%20for%20packaging%20materials%20the%20new%20version%206%20major%20changes%20and%20requirements_en-caps"
 								}
+							},
+							{
+								"public_id": "BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_Xtus",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_Xtus.mp4",
+								"originalName": "",
+								"size": 6647482,
+								"lastModified": 1573072618649,
+								"lastModifiedDate": "2019-11-06T20:36:58.649Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 139.343,
+								"width": 640,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_Xtus.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 139.343,
+										"duration": 139.343,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_Xtus.mp4"
+								],
+								"transformedPublicIds": [
+									"BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_Xtus"
+								],
+								"embed": {
+									"width": 640,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "brc-global-standard-for-packaging-materials-the-new-version-6-major-changes-and-requirements_en-caps"
+								}
 							}
 						],
 						"fieldChildren": []
