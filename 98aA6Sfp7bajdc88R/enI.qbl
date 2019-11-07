@@ -1301,6 +1301,55 @@
 									"caption": "",
 									"seoSuffix": "modern"
 								}
+							},
+							{
+								"public_id": "your-money_tyJS_mXCr",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
+								"originalName": "",
+								"size": 5154832,
+								"lastModified": 1573109246438,
+								"lastModifiedDate": "2019-11-07T06:47:26.438Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 21.184,
+								"width": 576,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 21.184,
+										"duration": 21.184,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4"
+								],
+								"transformedPublicIds": [
+									"your-money_tyJS_mXCr"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "your-money_tyjs"
+								}
 							}
 						],
 						"fieldChildren": []
