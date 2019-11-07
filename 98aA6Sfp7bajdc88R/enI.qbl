@@ -67,34 +67,32 @@
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_BPok.mp4",
 								"overlays": [
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 6.3,
+										"x": "50",
+										"y": "100",
 										"text": "I'm a cool guy. That's that's my Fang.",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "g55n",
+													"key": "f8udc",
 													"text": "I'm a cool guy. That's that's my Fang.",
 													"type": "unstyled",
 													"depth": 0,
@@ -119,37 +117,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 9.4,
+										"x": "50",
+										"y": "100",
 										"text": "I'm here 5 i surf the web I",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8q1d4",
+													"key": "f18q6",
 													"text": "I'm here 5 i surf the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -174,37 +172,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 9.4,
-										"end_offset": 10,
+										"x": "50",
+										"y": "100",
 										"text": "text",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a0l48",
+													"key": "8vlq5",
 													"text": "text",
 													"type": "unstyled",
 													"depth": 0,
@@ -229,37 +227,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10,
-										"end_offset": 10.6,
+										"x": "50",
+										"y": "100",
 										"text": "LOL.",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3majc",
+													"key": "7897e",
 													"text": "LOL.",
 													"type": "unstyled",
 													"depth": 0,
@@ -284,37 +282,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10,
+										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10.6,
-										"end_offset": 11.4,
+										"x": "50",
+										"y": "100",
 										"text": "Laugh out loud",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ap8au",
+													"key": "4h0md",
 													"text": "Laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -339,37 +337,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 11.4,
-										"end_offset": 13.1,
+										"x": "50",
+										"y": "100",
 										"text": "OMG. Oh my God",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "80h0o",
+													"key": "dfhd1",
 													"text": "OMG. Oh my God",
 													"type": "unstyled",
 													"depth": 0,
@@ -394,37 +392,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 13.1,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 13.1,
-										"end_offset": 14.7,
+										"x": "50",
+										"y": "100",
 										"text": "WTF why the FaZe?",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "eimo1",
+													"key": "6mdop",
 													"text": "WTF why the FaZe?",
 													"type": "unstyled",
 													"depth": 0,
@@ -449,37 +447,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 13.1,
+										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 14.7,
-										"end_offset": 18.8,
+										"x": "50",
+										"y": "100",
 										"text": "You know, I know all the dances High School Musical",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d1bpp",
+													"key": "am2pk",
 													"text": "You know, I know all the dances High School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -504,37 +502,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 18.8,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 18.8,
-										"end_offset": 19.9,
+										"x": "50",
+										"y": "100",
 										"text": "We're All",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8pa0b",
+													"key": "5n8vv",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -559,37 +557,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 18.8,
+										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 19.9,
-										"end_offset": 20.8,
+										"x": "50",
+										"y": "100",
 										"text": "in This",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4ds18",
+													"key": "bk1lq",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -614,37 +612,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.8,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 20.8,
-										"end_offset": 21.6,
+										"x": "50",
+										"y": "100",
 										"text": "Together.",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8ih00",
+													"key": "aqdke",
 													"text": "Together.",
 													"type": "unstyled",
 													"depth": 0,
@@ -669,37 +667,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 20.8,
+										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 21.6,
-										"end_offset": 23.8,
+										"x": "50",
+										"y": "100",
 										"text": "Yes, we are",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "64fhf",
+													"key": "c0alj",
 													"text": "Yes, we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -724,37 +722,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 23.8,
-										"end_offset": 24.7,
+										"x": "50",
+										"y": "100",
 										"text": "we're all",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4isd7",
+													"key": "5ns48",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -779,37 +777,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 24.7,
-										"end_offset": 25.3,
+										"x": "50",
+										"y": "100",
 										"text": "stars",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4so0u",
+													"key": "e4963",
 													"text": "stars",
 													"type": "unstyled",
 													"depth": 0,
@@ -834,37 +832,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.3,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.3,
-										"end_offset": 25.9,
+										"x": "50",
+										"y": "100",
 										"text": "and",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6t9q2",
+													"key": "2ilpr",
 													"text": "and",
 													"type": "unstyled",
 													"depth": 0,
@@ -889,37 +887,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.3,
+										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.9,
-										"end_offset": 27,
+										"x": "50",
+										"y": "100",
 										"text": "you know",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cj6k7",
+													"key": "e5s7a",
 													"text": "you know",
 													"type": "unstyled",
 													"depth": 0,
@@ -944,37 +942,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 27,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 27,
-										"end_offset": 27.7,
+										"x": "50",
+										"y": "100",
 										"text": "it",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9iaku",
+													"key": "7014h",
 													"text": "it",
 													"type": "unstyled",
 													"depth": 0,
@@ -999,6 +997,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 27,
+										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
@@ -1153,8 +1153,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": false,
-									"x": "20",
-									"y": "100",
+									"x": 0,
+									"y": "70",
 									"useXY": true
 								},
 								"contentType": "video/mp4"
@@ -1272,34 +1272,32 @@
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_usyd.mp4",
 								"overlays": [
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 6.3,
+										"x": "50",
+										"y": "100",
 										"text": "I'm a cool guy. That's that's my Fang.",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fd0cl",
+													"key": "blep2",
 													"text": "I'm a cool guy. That's that's my Fang.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1324,37 +1322,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 9.4,
+										"x": "50",
+										"y": "100",
 										"text": "I'm here 5 i surf the web I",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7vhgk",
+													"key": "fdooi",
 													"text": "I'm here 5 i surf the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -1379,37 +1377,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 9.4,
-										"end_offset": 10,
+										"x": "50",
+										"y": "100",
 										"text": "text",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8lpv",
+													"key": "5npne",
 													"text": "text",
 													"type": "unstyled",
 													"depth": 0,
@@ -1434,37 +1432,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10,
-										"end_offset": 10.6,
+										"x": "50",
+										"y": "100",
 										"text": "LOL.",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8cckv",
+													"key": "4ut5r",
 													"text": "LOL.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1489,37 +1487,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10,
+										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10.6,
-										"end_offset": 11.4,
+										"x": "50",
+										"y": "100",
 										"text": "Laugh out loud",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2dnpt",
+													"key": "dafud",
 													"text": "Laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -1544,37 +1542,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 11.4,
-										"end_offset": 13.1,
+										"x": "50",
+										"y": "100",
 										"text": "OMG. Oh my God",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "69ojj",
+													"key": "9sfkk",
 													"text": "OMG. Oh my God",
 													"type": "unstyled",
 													"depth": 0,
@@ -1599,37 +1597,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 13.1,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 13.1,
-										"end_offset": 14.7,
+										"x": "50",
+										"y": "100",
 										"text": "WTF why the FaZe?",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bks6d",
+													"key": "3mb8o",
 													"text": "WTF why the FaZe?",
 													"type": "unstyled",
 													"depth": 0,
@@ -1654,37 +1652,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 13.1,
+										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 14.7,
-										"end_offset": 18.8,
+										"x": "50",
+										"y": "100",
 										"text": "You know, I know all the dances High School Musical",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "djclc",
+													"key": "2f3fd",
 													"text": "You know, I know all the dances High School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -1709,37 +1707,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 18.8,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 18.8,
-										"end_offset": 19.9,
+										"x": "50",
+										"y": "100",
 										"text": "We're All",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1fbkg",
+													"key": "5tthu",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -1764,37 +1762,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 18.8,
+										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 19.9,
-										"end_offset": 20.8,
+										"x": "50",
+										"y": "100",
 										"text": "in This",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7bo0f",
+													"key": "5dn0k",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -1819,37 +1817,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.8,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 20.8,
-										"end_offset": 21.6,
+										"x": "50",
+										"y": "100",
 										"text": "Together.",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4n2ci",
+													"key": "6sn54",
 													"text": "Together.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1874,37 +1872,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 20.8,
+										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 21.6,
-										"end_offset": 23.8,
+										"x": "50",
+										"y": "100",
 										"text": "Yes, we are",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6dnmo",
+													"key": "ar5vr",
 													"text": "Yes, we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -1929,37 +1927,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 23.8,
-										"end_offset": 24.7,
+										"x": "50",
+										"y": "100",
 										"text": "we're all",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b7inl",
+													"key": "9hbim",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -1984,37 +1982,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 24.7,
-										"end_offset": 25.3,
+										"x": "50",
+										"y": "100",
 										"text": "stars",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aoo70",
+													"key": "b33qb",
 													"text": "stars",
 													"type": "unstyled",
 													"depth": 0,
@@ -2039,37 +2037,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.3,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.3,
-										"end_offset": 25.9,
+										"x": "50",
+										"y": "100",
 										"text": "and",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6klq4",
+													"key": "2hndk",
 													"text": "and",
 													"type": "unstyled",
 													"depth": 0,
@@ -2094,37 +2092,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.3,
+										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.9,
-										"end_offset": 27,
+										"x": "50",
+										"y": "100",
 										"text": "you know",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8i9qg",
+													"key": "aadpe",
 													"text": "you know",
 													"type": "unstyled",
 													"depth": 0,
@@ -2149,37 +2147,37 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 27,
 										"isAutoOverlayed": true
 									},
 									{
-										"x": "0",
-										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 27,
-										"end_offset": 27.7,
+										"x": "50",
+										"y": "100",
 										"text": "it",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 30,
 										"color": {
-											"hex": "#faf7f7",
+											"hex": "#f1eded",
 											"rgb": {
-												"r": 250,
-												"g": 247,
-												"b": 247,
+												"r": 241,
+												"g": 237,
+												"b": 237,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4eq5t",
+													"key": "b64dg",
 													"text": "it",
 													"type": "unstyled",
 													"depth": 0,
@@ -2204,6 +2202,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 27,
+										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
@@ -2354,8 +2354,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": false,
-									"x": "20",
-									"y": "100",
+									"x": 0,
+									"y": "70",
 									"useXY": true
 								},
 								"contentType": "video/mp4"
