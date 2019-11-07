@@ -1303,18 +1303,18 @@
 								}
 							},
 							{
-								"public_id": "your-money_tyJS_mXCr",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
+								"public_id": "your-money_tyJS_mXCr_DPBX",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_DPBX.mp4?generation=1573109369484036&alt=media",
 								"originalName": "",
-								"size": 5154832,
+								"size": "3044291",
 								"lastModified": 1573109246438,
-								"lastModifiedDate": "2019-11-07T06:47:26.438Z",
+								"lastModifiedDate": "2019-11-07T06:49:29.483Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 21.184,
 								"width": 576,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -2357,10 +2357,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4"
 								],
 								"transformedPublicIds": [
-									"your-money_tyJS_mXCr"
+									"your-money_tyJS_mXCr",
+									"your-money_tyJS_mXCr_DPBX"
 								],
 								"embed": {
 									"width": 576,
@@ -2392,7 +2394,8 @@
 									"x": "40",
 									"y": "600",
 									"useXY": true
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
