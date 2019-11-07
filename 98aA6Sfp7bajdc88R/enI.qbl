@@ -1305,18 +1305,18 @@
 								}
 							},
 							{
-								"public_id": "your-money_tyJS_mXCr_Y9PB",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_Y9PB.mp4?generation=1573110004369313&alt=media",
+								"public_id": "your-money_tyJS_mXCr_E5yb",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_E5yb.mp4?generation=1573110320716333&alt=media",
 								"originalName": "",
-								"size": "3096262",
+								"size": "3086520",
 								"lastModified": 1573109246438,
-								"lastModifiedDate": "2019-11-07T07:00:04.368Z",
+								"lastModifiedDate": "2019-11-07T07:05:20.716Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 21.184,
 								"width": 576,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_E5yb.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -2361,12 +2361,14 @@
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_E5yb.mp4"
 								],
 								"transformedPublicIds": [
 									"your-money_tyJS_mXCr",
 									"your-money_tyJS_mXCr_DPBX",
-									"your-money_tyJS_mXCr_Y9PB"
+									"your-money_tyJS_mXCr_Y9PB",
+									"your-money_tyJS_mXCr_E5yb"
 								],
 								"embed": {
 									"width": 576,
