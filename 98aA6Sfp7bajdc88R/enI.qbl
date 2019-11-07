@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modern_nNHo_JA94",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo_JA94.mp4?generation=1573108228118781&alt=media",
+								"public_id": "modern_nNHo_yb6i",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo_yb6i.mp4?generation=1573108815420988&alt=media",
 								"originalName": "modern",
 								"size": "1002221",
 								"lastModified": 1571038151662,
-								"lastModifiedDate": "2019-11-07T06:30:28.118Z",
+								"lastModifiedDate": "2019-11-07T06:40:15.420Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_JA94.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_yb6i.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1110,13 +1110,15 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_DLsG.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_n7SW.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_JA94.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_JA94.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_yb6i.mp4"
 								],
 								"transformedPublicIds": [
 									"modern_nNHo",
 									"modern_nNHo_DLsG",
 									"modern_nNHo_n7SW",
-									"modern_nNHo_JA94"
+									"modern_nNHo_JA94",
+									"modern_nNHo_yb6i"
 								],
 								"embed": {
 									"width": 480,
