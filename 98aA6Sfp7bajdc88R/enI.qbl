@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modern_nNHo_nd2y",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo_nd2y.mp4?generation=1573109065443037&alt=media",
+								"public_id": "modern_nNHo_riyT",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo_riyT.mp4?generation=1573109988514029&alt=media",
 								"originalName": "modern",
-								"size": "1050041",
+								"size": "1042752",
 								"lastModified": 1571038151662,
-								"lastModifiedDate": "2019-11-07T06:44:25.442Z",
+								"lastModifiedDate": "2019-11-07T06:59:48.513Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_nd2y.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_riyT.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1112,7 +1112,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_n7SW.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_JA94.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_yb6i.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_nd2y.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_nd2y.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_riyT.mp4"
 								],
 								"transformedPublicIds": [
 									"modern_nNHo",
@@ -1120,7 +1121,8 @@
 									"modern_nNHo_n7SW",
 									"modern_nNHo_JA94",
 									"modern_nNHo_yb6i",
-									"modern_nNHo_nd2y"
+									"modern_nNHo_nd2y",
+									"modern_nNHo_riyT"
 								],
 								"embed": {
 									"width": 480,
@@ -1303,18 +1305,18 @@
 								}
 							},
 							{
-								"public_id": "your-money_tyJS_mXCr_DPBX",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_DPBX.mp4?generation=1573109369484036&alt=media",
+								"public_id": "your-money_tyJS_mXCr_Y9PB",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_Y9PB.mp4?generation=1573110004369313&alt=media",
 								"originalName": "",
-								"size": "3044291",
+								"size": "3096262",
 								"lastModified": 1573109246438,
-								"lastModifiedDate": "2019-11-07T06:49:29.483Z",
+								"lastModifiedDate": "2019-11-07T07:00:04.368Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 21.184,
 								"width": 576,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -2358,11 +2360,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4"
 								],
 								"transformedPublicIds": [
 									"your-money_tyJS_mXCr",
-									"your-money_tyJS_mXCr_DPBX"
+									"your-money_tyJS_mXCr_DPBX",
+									"your-money_tyJS_mXCr_Y9PB"
 								],
 								"embed": {
 									"width": 576,
