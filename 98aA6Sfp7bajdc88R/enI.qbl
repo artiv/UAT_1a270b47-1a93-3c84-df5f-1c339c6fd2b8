@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modern_nNHo_BPok",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo_BPok.mp4?generation=1573111117303642&alt=media",
+								"public_id": "modern_nNHo_oY24",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_nNHo_oY24.mp4?generation=1573120899647578&alt=media",
 								"originalName": "modern",
-								"size": "996348",
+								"size": "1040435",
 								"lastModified": 1571038151662,
-								"lastModifiedDate": "2019-11-07T07:18:37.303Z",
+								"lastModifiedDate": "2019-11-07T10:01:39.647Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_BPok.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_oY24.mp4",
 								"overlays": [
 									{
 										"width": "default",
@@ -1114,7 +1114,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_yb6i.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_nd2y.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_riyT.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_BPok.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_BPok.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_nNHo_oY24.mp4"
 								],
 								"transformedPublicIds": [
 									"modern_nNHo",
@@ -1124,7 +1125,8 @@
 									"modern_nNHo_yb6i",
 									"modern_nNHo_nd2y",
 									"modern_nNHo_riyT",
-									"modern_nNHo_BPok"
+									"modern_nNHo_BPok",
+									"modern_nNHo_oY24"
 								],
 								"embed": {
 									"width": 480,
@@ -1258,18 +1260,18 @@
 								}
 							},
 							{
-								"public_id": "your-money_tyJS_mXCr_usyd",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_usyd.mp4?generation=1573111129169623&alt=media",
+								"public_id": "your-money_tyJS_mXCr_C8Nm",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_C8Nm.mp4?generation=1573120906648534&alt=media",
 								"originalName": "",
-								"size": "3083050",
+								"size": "3136154",
 								"lastModified": 1573109246438,
-								"lastModifiedDate": "2019-11-07T07:18:49.169Z",
+								"lastModifiedDate": "2019-11-07T10:01:46.648Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 21.184,
 								"width": 576,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_usyd.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_C8Nm.mp4",
 								"overlays": [
 									{
 										"width": "default",
@@ -2317,7 +2319,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_E5yb.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_kucq.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_usyd.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_usyd.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_C8Nm.mp4"
 								],
 								"transformedPublicIds": [
 									"your-money_tyJS_mXCr",
@@ -2325,7 +2328,8 @@
 									"your-money_tyJS_mXCr_Y9PB",
 									"your-money_tyJS_mXCr_E5yb",
 									"your-money_tyJS_mXCr_kucq",
-									"your-money_tyJS_mXCr_usyd"
+									"your-money_tyJS_mXCr_usyd",
+									"your-money_tyJS_mXCr_C8Nm"
 								],
 								"embed": {
 									"width": 576,
