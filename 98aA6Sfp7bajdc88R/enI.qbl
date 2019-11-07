@@ -1305,18 +1305,18 @@
 								}
 							},
 							{
-								"public_id": "your-money_tyJS_mXCr_E5yb",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_E5yb.mp4?generation=1573110320716333&alt=media",
+								"public_id": "your-money_tyJS_mXCr_kucq",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_tyJS_mXCr_kucq.mp4?generation=1573110663912779&alt=media",
 								"originalName": "",
-								"size": "3086520",
+								"size": "3049489",
 								"lastModified": 1573109246438,
-								"lastModifiedDate": "2019-11-07T07:05:20.716Z",
+								"lastModifiedDate": "2019-11-07T07:11:03.912Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 21.184,
 								"width": 576,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_E5yb.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_kucq.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -2362,13 +2362,15 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_DPBX.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_Y9PB.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_E5yb.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_E5yb.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_tyJS_mXCr_kucq.mp4"
 								],
 								"transformedPublicIds": [
 									"your-money_tyJS_mXCr",
 									"your-money_tyJS_mXCr_DPBX",
 									"your-money_tyJS_mXCr_Y9PB",
-									"your-money_tyJS_mXCr_E5yb"
+									"your-money_tyJS_mXCr_E5yb",
+									"your-money_tyJS_mXCr_kucq"
 								],
 								"embed": {
 									"width": 576,
