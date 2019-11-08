@@ -51,7 +51,57 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "modernFamily_giqv_i2Z7",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_giqv_i2Z7.mp4?generation=1573207290720638&alt=media",
+								"originalName": "",
+								"size": "977008",
+								"lastModified": 1573207280677,
+								"lastModifiedDate": "2019-11-08T10:01:30.719Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_giqv_i2Z7.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.279,
+										"duration": 30.279,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_giqv_i2Z7.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_giqv_i2Z7"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily_giqv"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
