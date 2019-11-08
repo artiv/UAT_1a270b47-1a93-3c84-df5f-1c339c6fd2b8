@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_kF2j",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_kF2j.mp4",
+								"public_id": "modernFamily_ce6B_wfjr",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamily_ce6B_wfjr.mp4?generation=1573208249331652&alt=media",
 								"originalName": "",
-								"size": 6647482,
-								"lastModified": 1573208238392,
-								"lastModifiedDate": "2019-11-08T10:17:18.392Z",
+								"size": "977008",
+								"lastModified": 1573208238735,
+								"lastModifiedDate": "2019-11-08T10:17:29.331Z",
 								"type": "video/mp4",
 								"format": "mp4",
-								"duration": 139.343,
-								"width": 640,
+								"duration": 30.279,
+								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_kF2j.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_ce6B_wfjr.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [
@@ -73,21 +73,21 @@
 										"isFixed": true,
 										"isAttached": true,
 										"start_offset": 0,
-										"end_offset": 139.343,
-										"duration": 139.343,
+										"end_offset": 30.279,
+										"duration": 30.279,
 										"volume": 1,
 										"tempo": 1
 									}
 								],
 								"captions": {},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_kF2j.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamily_ce6B_wfjr.mp4"
 								],
 								"transformedPublicIds": [
-									"BRC Global Standard for Packaging Materials The new version 6 Major changes and requirements_en-caps_kF2j"
+									"modernFamily_ce6B_wfjr"
 								],
 								"embed": {
-									"width": 640,
+									"width": 480,
 									"height": 360,
 									"scale": false,
 									"fit": false,
@@ -98,7 +98,7 @@
 									"cropFixedY": "",
 									"altText": "",
 									"caption": "",
-									"seoSuffix": "brc-global-standard-for-packaging-materials-the-new-version-6-major-changes-and-requirements_en-caps"
+									"seoSuffix": "modernfamily_ce6b"
 								}
 							}
 						],
