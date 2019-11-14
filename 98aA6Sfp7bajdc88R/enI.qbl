@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modern_FY7z_j3mP",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_FY7z_j3mP.mp4?generation=1573708017586255&alt=media",
+								"public_id": "modern_FY7z_FBJi",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_FY7z_FBJi.mp4?generation=1573708206297245&alt=media",
 								"originalName": "modern",
-								"size": "1030392",
+								"size": "1498018",
 								"lastModified": 1571038151662,
-								"lastModifiedDate": "2019-11-14T05:06:57.585Z",
+								"lastModifiedDate": "2019-11-14T05:10:06.297Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_FY7z_j3mP.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_FY7z_FBJi.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [
@@ -85,7 +85,8 @@
 										"volume": 1,
 										"tempo": 1,
 										"start_offset": "3",
-										"end_offset": "5"
+										"end_offset": "5",
+										"fileName": "oca6qgdstyr0ergakeov.mp3"
 									}
 								],
 								"captions": {
@@ -181,11 +182,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_FY7z.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_FY7z_j3mP.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_FY7z_j3mP.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_FY7z_FBJi.mp4"
 								],
 								"transformedPublicIds": [
 									"modern_FY7z",
-									"modern_FY7z_j3mP"
+									"modern_FY7z_j3mP",
+									"modern_FY7z_FBJi"
 								],
 								"embed": {
 									"width": 480,
