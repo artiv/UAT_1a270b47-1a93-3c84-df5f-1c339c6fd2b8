@@ -87,6 +87,15 @@
 										"start_offset": "3",
 										"end_offset": "5",
 										"fileName": "oca6qgdstyr0ergakeov.mp3"
+									},
+									{
+										"public_id": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/be92dhrblry9rce4uspb",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1573625627/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/be92dhrblry9rce4uspb.mp3",
+										"isAttached": true,
+										"volume": 1,
+										"tempo": 1,
+										"start_offset": "6",
+										"end_offset": "8"
 									}
 								],
 								"captions": {
