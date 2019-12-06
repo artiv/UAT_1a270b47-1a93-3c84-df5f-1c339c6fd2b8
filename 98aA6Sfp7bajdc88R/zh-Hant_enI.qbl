@@ -1,0 +1,380 @@
+{
+	"fileName": "zh-Hant_enI.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "3c630530-471c-22cc-7242-4a019e906c56",
+			"fileItemDate": "2019-12-06T05:56:18.802Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "S9LQBDrrWuQp34Zfb",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "qa_chef_video2_overview_8inn_Ys5D",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video2_overview_8inn_Ys5D.mp4",
+								"originalName": "",
+								"size": 180697750,
+								"lastModified": 1575609255892,
+								"lastModifiedDate": "2019-12-06T05:14:15.892Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 122,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video2_overview_8inn_Ys5D.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 122,
+										"duration": 122,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"font": "Noto Sans SC Regular",
+									"captionString": "1\n00:00:00,000 --> 00:00:03,800\nإذا كنت طاهيا تنفيذيا لضمان الجودة في حجم كبير من المطاعم عاليه المخاطر الطعام. أنت تطبخ من المرجح ان\n\n2\n00:00:03,800 --> 00:00:05,700\nتكون أمنه تماما ، ولكن أنت فقط لا يمكن إثبات\n\n3\n00:00:05,700 --> 00:00:06,650\nذلك. لماذا لا لأنك قد\n\n4\n00:00:06,650 --> 00:00:07,600\nوضعت مستحيلا. المهمه.\n\n5\n00:00:07,600 --> 00:01:03,400\nباستخدام الساعات مجسات الاشعه تحت الحمراء التسميات بخط اليد والأقلام والورق لتسجيل. جميع الطهاة بيانات السلامة الغذائية في محاولة لتذكر نقاط تقشعر لها الأبدان لمده ساعتين عندما يكون لديهم انها تفعل أشياء أخرى لطهي الجبال من الأوراق كل CCP دون حتى معرفه ما هو في نفوسهم ويكاد لا هوب وامض السجلات معا لإثبات. كنت قد فعلت الشيء الصحيح يجب ان يكون هناك شكوى مرحبا بكم في الشيف QA ؟ نظام سلامه الاغذيه الذي يتوافق مع عمليه التموين الخاصة بك ليست الطريقة الأخرى حول الرقمية تماما والتصميم من قبل الطهاة التنفيذيين من الطراز العالمي والخبراء الفنيين الشيف قابل للتعديل ، بايو حتى انه يتوافق مع الخاصة بك عمليات سلامه الاغذيه الفردية في كل قسم من عمليه تقديم الطعام\n\n6\n00:01:03,400 --> 00:01:31,300\nوأدله QPAC استخدامه من خلال عمليه تسجيل سلامه الغذاء تلقائيا التسميات لجميع المكونات عاليه المخاطر مع المكونات وطهي اطباق البرد UHF أيضا يصبح أداتك للإبلاغ عن قضايا الجودة مع المكونات أو الاطباق. ما كنت في نهاية المطاف مع البيانات السلس من كل CCP ولكن يمكنك تصفيه مع الصحافة من زر والتركيز علي السيئة ، وليس جيده مع تنبيات العمل\n\n7\n00:01:31,300 --> 00:01:45,250\nالتصحيحي ودرجه الحرارة ، والتي يتم إرسالها إلى رادلي إلى الهاتف الخاص بك إذا كان هناك مشكله مع اي طبق بدلا من ننتظر ز من خلال آلاف من قطعه\n\n8\n00:01:45,250 --> 00:01:52,225\nمن الورق خريطة رقميه لأي اطباق رحله سلامه الغذاء من العنصر إلى العملاء يمكن ان\n\n9\n00:01:52,225 --> 00:01:55,712\nتتولد في الصحافة من زر الشيف QA\n\n10\n00:01:55,712 --> 00:01:59,200\nتقليل المخاطر تعزيز سمعه حماية العملاء.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 3800,
+											"text": "إذا كنت طاهيا تنفيذيا لضمان الجودة في حجم كبير من المطاعم عاليه المخاطر الطعام. أنت تطبخ من المرجح ان"
+										},
+										{
+											"start": 3800,
+											"end": 5700,
+											"text": "تكون أمنه تماما ، ولكن أنت فقط لا يمكن إثبات"
+										},
+										{
+											"start": 5700,
+											"end": 6650,
+											"text": "ذلك. لماذا لا لأنك قد"
+										},
+										{
+											"start": 6650,
+											"end": 7600,
+											"text": "وضعت مستحيلا. المهمه."
+										},
+										{
+											"start": 7600,
+											"end": 63400,
+											"text": "باستخدام الساعات مجسات الاشعه تحت الحمراء التسميات بخط اليد والأقلام والورق لتسجيل. جميع الطهاة بيانات السلامة الغذائية في محاولة لتذكر نقاط تقشعر لها الأبدان لمده ساعتين عندما يكون لديهم انها تفعل أشياء أخرى لطهي الجبال من الأوراق كل CCP دون حتى معرفه ما هو في نفوسهم ويكاد لا هوب وامض السجلات معا لإثبات. كنت قد فعلت الشيء الصحيح يجب ان يكون هناك شكوى مرحبا بكم في الشيف QA ؟ نظام سلامه الاغذيه الذي يتوافق مع عمليه التموين الخاصة بك ليست الطريقة الأخرى حول الرقمية تماما والتصميم من قبل الطهاة التنفيذيين من الطراز العالمي والخبراء الفنيين الشيف قابل للتعديل ، بايو حتى انه يتوافق مع الخاصة بك عمليات سلامه الاغذيه الفردية في كل قسم من عمليه تقديم الطعام"
+										},
+										{
+											"start": 63400,
+											"end": 91300,
+											"text": "وأدله QPAC استخدامه من خلال عمليه تسجيل سلامه الغذاء تلقائيا التسميات لجميع المكونات عاليه المخاطر مع المكونات وطهي اطباق البرد UHF أيضا يصبح أداتك للإبلاغ عن قضايا الجودة مع المكونات أو الاطباق. ما كنت في نهاية المطاف مع البيانات السلس من كل CCP ولكن يمكنك تصفيه مع الصحافة من زر والتركيز علي السيئة ، وليس جيده مع تنبيات العمل"
+										},
+										{
+											"start": 91300,
+											"end": 105250,
+											"text": "التصحيحي ودرجه الحرارة ، والتي يتم إرسالها إلى رادلي إلى الهاتف الخاص بك إذا كان هناك مشكله مع اي طبق بدلا من ننتظر ز من خلال آلاف من قطعه"
+										},
+										{
+											"start": 105250,
+											"end": 112225,
+											"text": "من الورق خريطة رقميه لأي اطباق رحله سلامه الغذاء من العنصر إلى العملاء يمكن ان"
+										},
+										{
+											"start": 112225,
+											"end": 115712,
+											"text": "تتولد في الصحافة من زر الشيف QA"
+										},
+										{
+											"start": 115712,
+											"end": 119200,
+											"text": "تقليل المخاطر تعزيز سمعه حماية العملاء."
+										}
+									],
+									"translatedString": "إذا كنت طاهيا تنفيذيا لضمان الجودة في حجم كبير من المطاعم عاليه المخاطر الطعام. أنت تطبخ من المرجح ان تكون أمنه تماما ، ولكن أنت فقط لا يمكن إثبات ذلك. لماذا لا لأنك قد وضعت مستحيلا. المهمه. باستخدام الساعات مجسات الاشعه تحت الحمراء التسميات بخط اليد والأقلام والورق لتسجيل. جميع الطهاة بيانات السلامة الغذائية في محاولة لتذكر نقاط تقشعر لها الأبدان لمده ساعتين عندما يكون لديهم انها تفعل أشياء أخرى لطهي الجبال من الأوراق كل CCP دون حتى معرفه ما هو في نفوسهم ويكاد لا هوب وامض السجلات معا لإثبات. كنت قد فعلت الشيء الصحيح يجب ان يكون هناك شكوى مرحبا بكم في الشيف QA ؟ نظام سلامه الاغذيه الذي يتوافق مع عمليه التموين الخاصة بك ليست الطريقة الأخرى حول الرقمية تماما والتصميم من قبل الطهاة التنفيذيين من الطراز العالمي والخبراء الفنيين الشيف قابل للتعديل ، بايو حتى انه يتوافق مع الخاصة بك عمليات سلامه الاغذيه الفردية في كل قسم من عمليه تقديم الطعام وأدله QPAC استخدامه من خلال عمليه تسجيل سلامه الغذاء تلقائيا التسميات لجميع المكونات عاليه المخاطر مع المكونات وطهي اطباق البرد UHF أيضا يصبح أداتك للإبلاغ عن قضايا الجودة مع المكونات أو الاطباق. ما كنت في نهاية المطاف مع البيانات السلس من كل CCP ولكن يمكنك تصفيه مع الصحافة من زر والتركيز علي السيئة ، وليس جيده مع تنبيات العمل التصحيحي ودرجه الحرارة ، والتي يتم إرسالها إلى رادلي إلى الهاتف الخاص بك إذا كان هناك مشكله مع اي طبق بدلا من ننتظر ز من خلال آلاف من قطعه من الورق خريطة رقميه لأي اطباق رحله سلامه الغذاء من العنصر إلى العملاء يمكن ان تتولد في الصحافة من زر الشيف QA تقليل المخاطر تعزيز سمعه حماية العملاء.",
+									"alignment": "214:218-183:189",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:07,600\nIf you are an\n\n2\n00:00:07,600 --> 00:00:11,000\nexecutive chef for quality assurance in large volume of high-risk\n\n3\n00:00:11,000 --> 00:00:14,400\ncatering the food. You cook is likely to be quite safe,\n\n4\n00:00:14,400 --> 00:00:16,400\nbut you just can't prove it.\n\n5\n00:00:16,400 --> 00:00:17,800\nWhy not\n\n6\n00:00:17,800 --> 00:00:20,500\nbecause you have been set an impossible. Task.\n\n7\n00:00:20,500 --> 00:00:21,500\nUsing\n\n8\n00:00:21,500 --> 00:00:22,100\nclocks\n\n9\n00:00:22,100 --> 00:00:22,800\nprobes\n\n10\n00:00:22,800 --> 00:00:23,900\ninfrared sensors\n\n11\n00:00:23,900 --> 00:00:25,800\nhandwritten labels and pens and paper\n\n12\n00:00:25,800 --> 00:00:28,100\nto record. All food safety data\n\n13\n00:00:28,100 --> 00:00:30,400\nchefs trying to remember the two-hour\n\n14\n00:00:30,400 --> 00:00:33,500\nchilling points when they have it does an other things to cook\n\n15\n00:00:33,500 --> 00:00:36,300\nmountains of paperwork it every\n\n16\n00:00:36,300 --> 00:00:37,000\nCCP\n\n17\n00:00:37,000 --> 00:00:39,300\nwithout even knowing what is in them and\n\n18\n00:00:39,300 --> 00:00:43,800\nvirtually no hoper blinking the records together to prove. You have done the right thing\n\n19\n00:00:43,800 --> 00:00:44,900\nshould there be a\n\n20\n00:00:44,900 --> 00:00:45,500\ncomplaint\n\n21\n00:00:45,500 --> 00:00:48,900\nwelcome to QA chef? The food safety system that\n\n22\n00:00:48,900 --> 00:00:50,200\nconforms to your catering\n\n23\n00:00:50,200 --> 00:00:52,100\nprocess is not the other way around\n\n24\n00:00:52,100 --> 00:00:54,600\nfully digital and design by\n\n25\n00:00:54,600 --> 00:00:55,200\nworld-class\n\n26\n00:00:55,200 --> 00:00:57,000\nexecutive chefs and technical\n\n27\n00:00:57,000 --> 00:00:57,600\nexperts\n\n28\n00:00:57,600 --> 00:00:58,700\nchef is\n\n29\n00:00:58,700 --> 00:00:59,300\nmodifiable,\n\n30\n00:00:59,300 --> 00:00:59,900\nBayou\n\n31\n00:00:59,900 --> 00:01:01,800\nSo that it conforms to your own\n\n32\n00:01:01,800 --> 00:01:03,200\nindividual food safety\n\n33\n00:01:03,200 --> 00:01:04,100\nprocesses\n\n34\n00:01:04,100 --> 00:01:06,500\nat every section of the catering\n\n35\n00:01:06,500 --> 00:01:09,900\noperation the QPAC guides the use it through the food safety\n\n36\n00:01:09,900 --> 00:01:10,800\nrecording process\n\n37\n00:01:10,800 --> 00:01:13,800\nautomatically printing labels for all high risk\n\n38\n00:01:13,800 --> 00:01:14,500\ningredients\n\n39\n00:01:14,500 --> 00:01:15,300\nwith\n\n40\n00:01:15,300 --> 00:01:17,300\ncomponents and cook chill dishes\n\n41\n00:01:17,300 --> 00:01:20,700\nUHF also becomes your tool for reporting quality\n\n42\n00:01:20,700 --> 00:01:22,300\nissues with ingredients or\n\n43\n00:01:22,300 --> 00:01:22,900\ndishes.\n\n44\n00:01:23,900 --> 00:01:27,200\nWhat you end up with is seamless data from every\n\n45\n00:01:27,200 --> 00:01:30,100\nCCP but you can filter with the press of a button\n\n46\n00:01:30,100 --> 00:01:37,700\nand focus on the bad, not the good with alerts a corrective action and temperature, which is sent to Rackley to your phone\n\n47\n00:01:37,700 --> 00:01:40,100\nif there is a problem with any dish\n\n48\n00:01:40,100 --> 00:01:41,500\ninstead of waiting through\n\n49\n00:01:41,500 --> 00:01:42,900\nthousands of pieces of paper\n\n50\n00:01:42,900 --> 00:01:46,400\na digital map of any dishes food safety journey from\n\n51\n00:01:46,400 --> 00:01:48,400\ningredient to customer can be generated\n\n52\n00:01:48,400 --> 00:01:49,800\nat the press of a button\n\n53\n00:01:49,800 --> 00:01:54,800\nQA chef\n\n54\n00:01:54,800 --> 00:01:56,100\nreduce risk\n\n55\n00:01:56,100 --> 00:01:56,800\nboost\n\n56\n00:01:56,800 --> 00:01:57,600\nreputation\n\n57\n00:01:57,600 --> 00:01:58,600\nprotect your\n\n58\n00:01:58,600 --> 00:01:59,200\ncustomers.\n"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video2_overview_8inn_Ys5D.mp4"
+								],
+								"transformedPublicIds": [
+									"qa_chef_video2_overview_8inn_Ys5D"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "qa_chef_video2_overview_8inn"
+								}
+							},
+							{
+								"public_id": "qa_chef_video1_ceo_message_vtJt_3oCB",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_3oCB.mp4",
+								"originalName": "",
+								"size": 154293514,
+								"lastModified": 1575610376908,
+								"lastModifiedDate": "2019-12-06T05:32:56.908Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 96.24,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_3oCB.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 96.24,
+										"duration": 96.24,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"font": "Noto Sans SC Regular",
+									"captionString": "1\n00:00:00,000 --> 00:00:36,850\nمرحبا. انا ديفيد كوكس مؤسس والرئيس التنفيذي لشركه QA الشيف نظام سلامه الاغذيه التي تتوافق مع عمليه التموين الخاص بك ليست في الاتجاه الآخر. لدينا أكثر من 50 سنوات من الخبرة في تقديم الطعام ، لذلك نحن نعرف الإحباط الدفع الخاص بك لجعل حياتك أسهل الآن. وهنا ثلاث طرق الشيف QA فريدة من نوعها أولا سهله الاستخدام لدينا QPAC التي عقدت باليد. يستبدل الجهاز الأوراق في كل نقطه التحكم الحرجة وتمكنك من\n\n2\n00:00:36,850 --> 00:00:55,275\nالتقاط الصور من المكونات والاطباق مع قضايا مراقبه الجودة ثانيا من نهاية إلى نهاية التتبع يعطيك كامله سلامه الغذاء التتبع من المكونات الواردة إلى اعداد في المطبخ علي طول الطريق إلى العملاء. لعب الطعام مما يتيح\n\n3\n00:00:55,275 --> 00:01:04,487\nلك الحد من المخاطر غير مسبوقة. وأخيرا المرونة العملية الخاصة بك يختلف عن اي شيء آخر حتى تتمكن\n\n4\n00:01:04,487 --> 00:01:09,093\nمن تعديل س التحول لتعكس عمليات التموين الخاصة بك\n\n5\n00:01:09,093 --> 00:01:11,396\nمحدده تقليل المخاطر تعزيز\n\n6\n00:01:11,396 --> 00:01:13,700\nسمعتك حماية عملائك.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 36850,
+											"text": "مرحبا. انا ديفيد كوكس مؤسس والرئيس التنفيذي لشركه QA الشيف نظام سلامه الاغذيه التي تتوافق مع عمليه التموين الخاص بك ليست في الاتجاه الآخر. لدينا أكثر من 50 سنوات من الخبرة في تقديم الطعام ، لذلك نحن نعرف الإحباط الدفع الخاص بك لجعل حياتك أسهل الآن. وهنا ثلاث طرق الشيف QA فريدة من نوعها أولا سهله الاستخدام لدينا QPAC التي عقدت باليد. يستبدل الجهاز الأوراق في كل نقطه التحكم الحرجة وتمكنك من"
+										},
+										{
+											"start": 36850,
+											"end": 55275,
+											"text": "التقاط الصور من المكونات والاطباق مع قضايا مراقبه الجودة ثانيا من نهاية إلى نهاية التتبع يعطيك كامله سلامه الغذاء التتبع من المكونات الواردة إلى اعداد في المطبخ علي طول الطريق إلى العملاء. لعب الطعام مما يتيح"
+										},
+										{
+											"start": 55275,
+											"end": 64487,
+											"text": "لك الحد من المخاطر غير مسبوقة. وأخيرا المرونة العملية الخاصة بك يختلف عن اي شيء آخر حتى تتمكن"
+										},
+										{
+											"start": 64487,
+											"end": 69093,
+											"text": "من تعديل س التحول لتعكس عمليات التموين الخاصة بك"
+										},
+										{
+											"start": 69093,
+											"end": 71396,
+											"text": "محدده تقليل المخاطر تعزيز"
+										},
+										{
+											"start": 71396,
+											"end": 73700,
+											"text": "سمعتك حماية عملائك."
+										}
+									],
+									"translatedString": "مرحبا. انا ديفيد كوكس مؤسس والرئيس التنفيذي لشركه QA الشيف نظام سلامه الاغذيه التي تتوافق مع عمليه التموين الخاص بك ليست في الاتجاه الآخر. لدينا أكثر من 50 سنوات من الخبرة في تقديم الطعام ، لذلك نحن نعرف الإحباط الدفع الخاص بك لجعل حياتك أسهل الآن. وهنا ثلاث طرق الشيف QA فريدة من نوعها أولا سهله الاستخدام لدينا QPAC التي عقدت باليد. يستبدل الجهاز الأوراق في كل نقطه التحكم الحرجة وتمكنك من التقاط الصور من المكونات والاطباق مع قضايا مراقبه الجودة ثانيا من نهاية إلى نهاية التتبع يعطيك كامله سلامه الغذاء التتبع من المكونات الواردة إلى اعداد في المطبخ علي طول الطريق إلى العملاء. لعب الطعام مما يتيح لك الحد من المخاطر غير مسبوقة. وأخيرا المرونة العملية الخاصة بك يختلف عن اي شيء آخر حتى تتمكن من تعديل س التحول لتعكس عمليات التموين الخاصة بك محدده تقليل المخاطر تعزيز سمعتك حماية عملائك.",
+									"alignment": "0:5-0:5",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:21,200\nHello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering\n\n2\n00:00:21,200 --> 00:00:22,900\nprocess is not the other way around.\n\n3\n00:00:22,900 --> 00:00:25,600\nWe have over 50 years of catering\n\n4\n00:00:25,600 --> 00:00:27,600\nexperience, so we know your payment\n\n5\n00:00:27,600 --> 00:00:28,200\nfrustration\n\n6\n00:00:28,200 --> 00:00:30,400\nto make your life easier\n\n7\n00:00:30,400 --> 00:00:33,500\nnow. Here's three ways the QA chef is\n\n8\n00:00:33,500 --> 00:00:34,100\nunique\n\n9\n00:00:34,100 --> 00:00:34,900\nfirstly\n\n10\n00:00:34,900 --> 00:00:35,900\nuser-friendly\n\n11\n00:00:35,900 --> 00:00:36,800\nour\n\n12\n00:00:36,800 --> 00:00:38,200\nQPAC hand-held. Device\n\n13\n00:00:38,200 --> 00:00:42,400\nreplaces the paperwork at every critical control point and enables you to take\n\n14\n00:00:42,400 --> 00:00:45,900\nphotographs of ingredients and dishes with quality control issues\n\n15\n00:00:45,900 --> 00:00:46,700\nsecondly\n\n16\n00:00:46,700 --> 00:00:48,300\nend-to-end traceability\n\n17\n00:00:48,300 --> 00:00:50,200\ngives you complete\n\n18\n00:00:50,200 --> 00:00:52,200\nfood safety traceability from\n\n19\n00:00:52,200 --> 00:00:53,600\ningredients received to\n\n20\n00:00:53,600 --> 00:00:54,600\npreparation in the kitchen\n\n21\n00:00:54,600 --> 00:00:57,600\nall the way to the customers. Play the food giving you\n\n22\n00:00:57,600 --> 00:00:58,500\nunprecedented\n\n23\n00:00:58,500 --> 00:00:59,200\nrisk reduction.\n\n24\n00:00:59,900 --> 00:01:00,600\nFinally\n\n25\n00:01:00,600 --> 00:01:01,900\nflexibility\n\n26\n00:01:01,900 --> 00:01:07,600\nyour operation is different to any other so you can modify q a shift to reflect your specific\n\n27\n00:01:07,600 --> 00:01:09,000\ncatering processes\n\n28\n00:01:09,000 --> 00:01:10,400\nreduce risk\n\n29\n00:01:10,400 --> 00:01:11,500\nboost your reputation\n\n30\n00:01:11,500 --> 00:01:13,000\nprotect your\n\n31\n00:01:13,000 --> 00:01:13,700\ncustomers.\n"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_3oCB.mp4"
+								],
+								"transformedPublicIds": [
+									"qa_chef_video1_ceo_message_vtJt_3oCB"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "qa_chef_video1_ceo_message_vtjt"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
