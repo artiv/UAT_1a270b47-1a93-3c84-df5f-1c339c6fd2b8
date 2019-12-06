@@ -395,6 +395,55 @@
 									"caption": "",
 									"seoSuffix": "qa_chef_video2_overview_8inn"
 								}
+							},
+							{
+								"public_id": "qa_chef_video1_ceo_message_vtJt_3oCB",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_3oCB.mp4",
+								"originalName": "",
+								"size": 154293514,
+								"lastModified": 1575610376908,
+								"lastModifiedDate": "2019-12-06T05:32:56.908Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 96.24,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_3oCB.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 96.24,
+										"duration": 96.24,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_3oCB.mp4"
+								],
+								"transformedPublicIds": [
+									"qa_chef_video1_ceo_message_vtJt_3oCB"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "qa_chef_video1_ceo_message_vtjt"
+								}
 							}
 						],
 						"fieldChildren": []
