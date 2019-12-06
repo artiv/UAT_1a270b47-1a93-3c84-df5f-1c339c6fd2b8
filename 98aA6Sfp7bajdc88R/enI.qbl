@@ -79,7 +79,302 @@
 										"tempo": 1
 									}
 								],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:07,600\nIf you are an\n\n2\n00:00:07,600 --> 00:00:11,000\nexecutive chef for quality assurance in large volume of high-risk\n\n3\n00:00:11,000 --> 00:00:14,400\ncatering the food. You cook is likely to be quite safe,\n\n4\n00:00:14,400 --> 00:00:16,400\nbut you just can't prove it.\n\n5\n00:00:16,400 --> 00:00:17,800\nWhy not\n\n6\n00:00:17,800 --> 00:00:20,500\nbecause you have been set an impossible. Task.\n\n7\n00:00:20,500 --> 00:00:21,500\nUsing\n\n8\n00:00:21,500 --> 00:00:22,100\nclocks\n\n9\n00:00:22,100 --> 00:00:22,800\nprobes\n\n10\n00:00:22,800 --> 00:00:23,900\ninfrared sensors\n\n11\n00:00:23,900 --> 00:00:25,800\nhandwritten labels and pens and paper\n\n12\n00:00:25,800 --> 00:00:28,100\nto record. All food safety data\n\n13\n00:00:28,100 --> 00:00:30,400\nchefs trying to remember the two-hour\n\n14\n00:00:30,400 --> 00:00:33,500\nchilling points when they have it does an other things to cook\n\n15\n00:00:33,500 --> 00:00:36,300\nmountains of paperwork it every\n\n16\n00:00:36,300 --> 00:00:37,000\nCCP\n\n17\n00:00:37,000 --> 00:00:39,300\nwithout even knowing what is in them and\n\n18\n00:00:39,300 --> 00:00:43,800\nvirtually no hoper blinking the records together to prove. You have done the right thing\n\n19\n00:00:43,800 --> 00:00:44,900\nshould there be a\n\n20\n00:00:44,900 --> 00:00:45,500\ncomplaint\n\n21\n00:00:45,500 --> 00:00:48,900\nwelcome to QA chef? The food safety system that\n\n22\n00:00:48,900 --> 00:00:50,200\nconforms to your catering\n\n23\n00:00:50,200 --> 00:00:52,100\nprocess is not the other way around\n\n24\n00:00:52,100 --> 00:00:54,600\nfully digital and design by\n\n25\n00:00:54,600 --> 00:00:55,200\nworld-class\n\n26\n00:00:55,200 --> 00:00:57,000\nexecutive chefs and technical\n\n27\n00:00:57,000 --> 00:00:57,600\nexperts\n\n28\n00:00:57,600 --> 00:00:58,700\nchef is\n\n29\n00:00:58,700 --> 00:00:59,300\nmodifiable,\n\n30\n00:00:59,300 --> 00:00:59,900\nBayou\n\n31\n00:00:59,900 --> 00:01:01,800\nSo that it conforms to your own\n\n32\n00:01:01,800 --> 00:01:03,200\nindividual food safety\n\n33\n00:01:03,200 --> 00:01:04,100\nprocesses\n\n34\n00:01:04,100 --> 00:01:06,500\nat every section of the catering\n\n35\n00:01:06,500 --> 00:01:09,900\noperation the QPAC guides the use it through the food safety\n\n36\n00:01:09,900 --> 00:01:10,800\nrecording process\n\n37\n00:01:10,800 --> 00:01:13,800\nautomatically printing labels for all high risk\n\n38\n00:01:13,800 --> 00:01:14,500\ningredients\n\n39\n00:01:14,500 --> 00:01:15,300\nwith\n\n40\n00:01:15,300 --> 00:01:17,300\ncomponents and cook chill dishes\n\n41\n00:01:17,300 --> 00:01:20,700\nUHF also becomes your tool for reporting quality\n\n42\n00:01:20,700 --> 00:01:22,300\nissues with ingredients or\n\n43\n00:01:22,300 --> 00:01:22,900\ndishes.\n\n44\n00:01:23,900 --> 00:01:27,200\nWhat you end up with is seamless data from every\n\n45\n00:01:27,200 --> 00:01:30,100\nCCP but you can filter with the press of a button\n\n46\n00:01:30,100 --> 00:01:37,700\nand focus on the bad, not the good with alerts a corrective action and temperature, which is sent to Rackley to your phone\n\n47\n00:01:37,700 --> 00:01:40,100\nif there is a problem with any dish\n\n48\n00:01:40,100 --> 00:01:41,500\ninstead of waiting through\n\n49\n00:01:41,500 --> 00:01:42,900\nthousands of pieces of paper\n\n50\n00:01:42,900 --> 00:01:46,400\na digital map of any dishes food safety journey from\n\n51\n00:01:46,400 --> 00:01:48,400\ningredient to customer can be generated\n\n52\n00:01:48,400 --> 00:01:49,800\nat the press of a button\n\n53\n00:01:49,800 --> 00:01:54,800\nQA chef\n\n54\n00:01:54,800 --> 00:01:56,100\nreduce risk\n\n55\n00:01:56,100 --> 00:01:56,800\nboost\n\n56\n00:01:56,800 --> 00:01:57,600\nreputation\n\n57\n00:01:57,600 --> 00:01:58,600\nprotect your\n\n58\n00:01:58,600 --> 00:01:59,200\ncustomers.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 7600,
+											"text": "If you are an"
+										},
+										{
+											"start": 7600,
+											"end": 11000,
+											"text": "executive chef for quality assurance in large volume of high-risk"
+										},
+										{
+											"start": 11000,
+											"end": 14400,
+											"text": "catering the food. You cook is likely to be quite safe,"
+										},
+										{
+											"start": 14400,
+											"end": 16400,
+											"text": "but you just can't prove it."
+										},
+										{
+											"start": 16400,
+											"end": 17800,
+											"text": "Why not"
+										},
+										{
+											"start": 17800,
+											"end": 20500,
+											"text": "because you have been set an impossible. Task."
+										},
+										{
+											"start": 20500,
+											"end": 21500,
+											"text": "Using"
+										},
+										{
+											"start": 21500,
+											"end": 22100,
+											"text": "clocks"
+										},
+										{
+											"start": 22100,
+											"end": 22800,
+											"text": "probes"
+										},
+										{
+											"start": 22800,
+											"end": 23900,
+											"text": "infrared sensors"
+										},
+										{
+											"start": 23900,
+											"end": 25800,
+											"text": "handwritten labels and pens and paper"
+										},
+										{
+											"start": 25800,
+											"end": 28100,
+											"text": "to record. All food safety data"
+										},
+										{
+											"start": 28100,
+											"end": 30400,
+											"text": "chefs trying to remember the two-hour"
+										},
+										{
+											"start": 30400,
+											"end": 33500,
+											"text": "chilling points when they have it does an other things to cook"
+										},
+										{
+											"start": 33500,
+											"end": 36300,
+											"text": "mountains of paperwork it every"
+										},
+										{
+											"start": 36300,
+											"end": 37000,
+											"text": "CCP"
+										},
+										{
+											"start": 37000,
+											"end": 39300,
+											"text": "without even knowing what is in them and"
+										},
+										{
+											"start": 39300,
+											"end": 43800,
+											"text": "virtually no hoper blinking the records together to prove. You have done the right thing"
+										},
+										{
+											"start": 43800,
+											"end": 44900,
+											"text": "should there be a"
+										},
+										{
+											"start": 44900,
+											"end": 45500,
+											"text": "complaint"
+										},
+										{
+											"start": 45500,
+											"end": 48900,
+											"text": "welcome to QA chef? The food safety system that"
+										},
+										{
+											"start": 48900,
+											"end": 50200,
+											"text": "conforms to your catering"
+										},
+										{
+											"start": 50200,
+											"end": 52100,
+											"text": "process is not the other way around"
+										},
+										{
+											"start": 52100,
+											"end": 54600,
+											"text": "fully digital and design by"
+										},
+										{
+											"start": 54600,
+											"end": 55200,
+											"text": "world-class"
+										},
+										{
+											"start": 55200,
+											"end": 57000,
+											"text": "executive chefs and technical"
+										},
+										{
+											"start": 57000,
+											"end": 57600,
+											"text": "experts"
+										},
+										{
+											"start": 57600,
+											"end": 58700,
+											"text": "chef is"
+										},
+										{
+											"start": 58700,
+											"end": 59300,
+											"text": "modifiable,"
+										},
+										{
+											"start": 59300,
+											"end": 59900,
+											"text": "Bayou"
+										},
+										{
+											"start": 59900,
+											"end": 61800,
+											"text": "So that it conforms to your own"
+										},
+										{
+											"start": 61800,
+											"end": 63200,
+											"text": "individual food safety"
+										},
+										{
+											"start": 63200,
+											"end": 64100,
+											"text": "processes"
+										},
+										{
+											"start": 64100,
+											"end": 66500,
+											"text": "at every section of the catering"
+										},
+										{
+											"start": 66500,
+											"end": 69900,
+											"text": "operation the QPAC guides the use it through the food safety"
+										},
+										{
+											"start": 69900,
+											"end": 70800,
+											"text": "recording process"
+										},
+										{
+											"start": 70800,
+											"end": 73800,
+											"text": "automatically printing labels for all high risk"
+										},
+										{
+											"start": 73800,
+											"end": 74500,
+											"text": "ingredients"
+										},
+										{
+											"start": 74500,
+											"end": 75300,
+											"text": "with"
+										},
+										{
+											"start": 75300,
+											"end": 77300,
+											"text": "components and cook chill dishes"
+										},
+										{
+											"start": 77300,
+											"end": 80700,
+											"text": "UHF also becomes your tool for reporting quality"
+										},
+										{
+											"start": 80700,
+											"end": 82300,
+											"text": "issues with ingredients or"
+										},
+										{
+											"start": 82300,
+											"end": 82900,
+											"text": "dishes."
+										},
+										{
+											"start": 83900,
+											"end": 87200,
+											"text": "What you end up with is seamless data from every"
+										},
+										{
+											"start": 87200,
+											"end": 90100,
+											"text": "CCP but you can filter with the press of a button"
+										},
+										{
+											"start": 90100,
+											"end": 97700,
+											"text": "and focus on the bad, not the good with alerts a corrective action and temperature, which is sent to Rackley to your phone"
+										},
+										{
+											"start": 97700,
+											"end": 100100,
+											"text": "if there is a problem with any dish"
+										},
+										{
+											"start": 100100,
+											"end": 101500,
+											"text": "instead of waiting through"
+										},
+										{
+											"start": 101500,
+											"end": 102900,
+											"text": "thousands of pieces of paper"
+										},
+										{
+											"start": 102900,
+											"end": 106400,
+											"text": "a digital map of any dishes food safety journey from"
+										},
+										{
+											"start": 106400,
+											"end": 108400,
+											"text": "ingredient to customer can be generated"
+										},
+										{
+											"start": 108400,
+											"end": 109800,
+											"text": "at the press of a button"
+										},
+										{
+											"start": 109800,
+											"end": 114800,
+											"text": "QA chef"
+										},
+										{
+											"start": 114800,
+											"end": 116100,
+											"text": "reduce risk"
+										},
+										{
+											"start": 116100,
+											"end": 116800,
+											"text": "boost"
+										},
+										{
+											"start": 116800,
+											"end": 117600,
+											"text": "reputation"
+										},
+										{
+											"start": 117600,
+											"end": 118600,
+											"text": "protect your"
+										},
+										{
+											"start": 118600,
+											"end": 119200,
+											"text": "customers."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video2_overview_8inn_Ys5D.mp4"
 								],
