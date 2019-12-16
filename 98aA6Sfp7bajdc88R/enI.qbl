@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "qa_chef_video1_ceo_message_vtJt_ToJj_N7on",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fqa_chef_video1_ceo_message_vtJt_ToJj_N7on.mp4?generation=1576522154744271&alt=media",
+								"public_id": "qa_chef_video1_ceo_message_vtJt_ToJj_6wrY",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fqa_chef_video1_ceo_message_vtJt_ToJj_6wrY.mp4?generation=1576523372296998&alt=media",
 								"originalName": "",
-								"size": "44738091",
+								"size": "44867885",
 								"lastModified": 1576521885389,
-								"lastModifiedDate": "2019-12-16T18:49:14.744Z",
+								"lastModifiedDate": "2019-12-16T19:09:32.296Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 96.24,
 								"width": 1920,
 								"height": 1080,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj_N7on.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj_6wrY.mp4",
 								"overlays": [
 									{
 										"x": 0,
@@ -2009,11 +2009,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj_N7on.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj_N7on.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj_6wrY.mp4"
 								],
 								"transformedPublicIds": [
 									"qa_chef_video1_ceo_message_vtJt_ToJj",
-									"qa_chef_video1_ceo_message_vtJt_ToJj_N7on"
+									"qa_chef_video1_ceo_message_vtJt_ToJj_N7on",
+									"qa_chef_video1_ceo_message_vtJt_ToJj_6wrY"
 								],
 								"embed": {
 									"width": 1920,
