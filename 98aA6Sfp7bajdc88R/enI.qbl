@@ -75,15 +75,15 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "Hello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering\n2\n00:00:21,200 --> 00:00:22,900\nprocess is not the other way around.\n3\n00:00:22,900 --> 00:00:25,600\nWe have over 50 years of catering\n4\n00:00:25,600 --> 00:00:27,600\nexperience, so we know your payment\n5\n00:00:27,600 --> 00:00:28,200\nfrustration\n6\n00:00:28,200 --> 00:00:30,400\nto make your life easier\n7\n00:00:30,400 --> 00:00:33,500\nnow. Here's three ways the QA chef is\n8\n00:00:33,500 --> 00:00:34,100\nunique\n9\n00:00:34,100 --> 00:00:34,900\nfirstly\n10\n00:00:34,900 --> 00:00:35,900\nuser-friendly\n11\n00:00:35,900 --> 00:00:36,800\nour\n12\n00:00:36,800 --> 00:00:38,200\nQPAC hand-held. Device\n13\n00:00:38,200 --> 00:00:42,400\nreplaces the paperwork at every critical control point and enables you to take\n14\n00:00:42,400 --> 00:00:45,900\nphotographs of ingredients and dishes with quality control issues\n15\n00:00:45,900 --> 00:00:46,700\nsecondly\n16\n00:00:46,700 --> 00:00:48,300\nend-to-end traceability\n17\n00:00:48,300 --> 00:00:50,200\ngives you complete\n18\n00:00:50,200 --> 00:00:52,200\nfood safety traceability from\n19\n00:00:52,200 --> 00:00:53,600\ningredients received to\n20\n00:00:53,600 --> 00:00:54,600\npreparation in the kitchen\n21\n00:00:54,600 --> 00:00:57,600\nall the way to the customers. Play the food giving you\n22\n00:00:57,600 --> 00:00:58,500\nunprecedented\n23\n00:00:58,500 --> 00:00:59,200\nrisk reduction.\n24\n00:00:59,900 --> 00:01:00,600\nFinally\n25\n00:01:00,600 --> 00:01:01,900\nflexibility\n26\n00:01:01,900 --> 00:01:07,600\nyour operation is different to any other so you can modify q a shift to reflect your specific\n27\n00:01:07,600 --> 00:01:09,000\ncatering processes\n28\n00:01:09,000 --> 00:01:10,400\nreduce risk\n29\n00:01:10,400 --> 00:01:11,500\nboost your reputation\n30\n00:01:11,500 --> 00:01:13,000\nprotect your\n31\n00:01:13,000 --> 00:01:13,700\ncustomers.",
+										"text": "Hello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f0e8e8",
+											"hex": "#f5f0f0",
 											"rgb": {
-												"r": 240,
-												"g": 232,
-												"b": 232,
+												"r": 245,
+												"g": 240,
+												"b": 240,
 												"a": 1
 											}
 										},
@@ -92,818 +92,8 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6d1ah",
+													"key": "dqcst",
 													"text": "Hello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "etfl8",
-													"text": "2",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "7gmts",
-													"text": "00:00:21,200 --> 00:00:22,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "6qsgl",
-													"text": "process is not the other way around.",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "27rmo",
-													"text": "3",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "esrln",
-													"text": "00:00:22,900 --> 00:00:25,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "fpnqc",
-													"text": "We have over 50 years of catering",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "7024i",
-													"text": "4",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "555sr",
-													"text": "00:00:25,600 --> 00:00:27,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2brk0",
-													"text": "experience, so we know your payment",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2a77a",
-													"text": "5",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "cms2j",
-													"text": "00:00:27,600 --> 00:00:28,200",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "dad9q",
-													"text": "frustration",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "8qsth",
-													"text": "6",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "aq43o",
-													"text": "00:00:28,200 --> 00:00:30,400",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "bf7n8",
-													"text": "to make your life easier",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5o7d2",
-													"text": "7",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9pr66",
-													"text": "00:00:30,400 --> 00:00:33,500",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3hi25",
-													"text": "now. Here's three ways the QA chef is",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "67o73",
-													"text": "8",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "4tsmo",
-													"text": "00:00:33,500 --> 00:00:34,100",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "1le6o",
-													"text": "unique",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "4tgoe",
-													"text": "9",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "8rg4h",
-													"text": "00:00:34,100 --> 00:00:34,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9rbhc",
-													"text": "firstly",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3gnc8",
-													"text": "10",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9ojje",
-													"text": "00:00:34,900 --> 00:00:35,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "6pf6v",
-													"text": "user-friendly",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3t0i1",
-													"text": "11",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "ariqr",
-													"text": "00:00:35,900 --> 00:00:36,800",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3vsh7",
-													"text": "our",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "ajes4",
-													"text": "12",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "6fjml",
-													"text": "00:00:36,800 --> 00:00:38,200",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2e1id",
-													"text": "QPAC hand-held. Device",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "6sir0",
-													"text": "13",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3ivea",
-													"text": "00:00:38,200 --> 00:00:42,400",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "8nh39",
-													"text": "replaces the paperwork at every critical control point and enables you to take",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "6kr8l",
-													"text": "14",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "90o6o",
-													"text": "00:00:42,400 --> 00:00:45,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "8ltoc",
-													"text": "photographs of ingredients and dishes with quality control issues",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5r0aa",
-													"text": "15",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5356r",
-													"text": "00:00:45,900 --> 00:00:46,700",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "4u52e",
-													"text": "secondly",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "7j56a",
-													"text": "16",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5fhga",
-													"text": "00:00:46,700 --> 00:00:48,300",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "fpomv",
-													"text": "end-to-end traceability",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "ccr7k",
-													"text": "17",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "1uagm",
-													"text": "00:00:48,300 --> 00:00:50,200",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "29o4l",
-													"text": "gives you complete",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2b6fe",
-													"text": "18",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "e5pht",
-													"text": "00:00:50,200 --> 00:00:52,200",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "1bcet",
-													"text": "food safety traceability from",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "1vimd",
-													"text": "19",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "59tr4",
-													"text": "00:00:52,200 --> 00:00:53,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5j6tu",
-													"text": "ingredients received to",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "60c96",
-													"text": "20",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "kn74",
-													"text": "00:00:53,600 --> 00:00:54,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "98bkj",
-													"text": "preparation in the kitchen",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "1rjaf",
-													"text": "21",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2q1l1",
-													"text": "00:00:54,600 --> 00:00:57,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5fkv4",
-													"text": "all the way to the customers. Play the food giving you",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "8ir6h",
-													"text": "22",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "89g1e",
-													"text": "00:00:57,600 --> 00:00:58,500",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "56qm8",
-													"text": "unprecedented",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5inf3",
-													"text": "23",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3uj16",
-													"text": "00:00:58,500 --> 00:00:59,200",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "3f4o8",
-													"text": "risk reduction.",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "aqken",
-													"text": "24",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "6c063",
-													"text": "00:00:59,900 --> 00:01:00,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5pau5",
-													"text": "Finally",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "862t3",
-													"text": "25",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "da22q",
-													"text": "00:01:00,600 --> 00:01:01,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2c316",
-													"text": "flexibility",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "7svjp",
-													"text": "26",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "ca603",
-													"text": "00:01:01,900 --> 00:01:07,600",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5c6a3",
-													"text": "your operation is different to any other so you can modify q a shift to reflect your specific",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "fsat8",
-													"text": "27",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "953c6",
-													"text": "00:01:07,600 --> 00:01:09,000",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "i2m6",
-													"text": "catering processes",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "c5lcg",
-													"text": "28",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "djqgu",
-													"text": "00:01:09,000 --> 00:01:10,400",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "emfhh",
-													"text": "reduce risk",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "emobb",
-													"text": "29",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9coo9",
-													"text": "00:01:10,400 --> 00:01:11,500",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "bo6rt",
-													"text": "boost your reputation",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "el06j",
-													"text": "30",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "84r6h",
-													"text": "00:01:11,500 --> 00:01:13,000",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "es94l",
-													"text": "protect your",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "cv95p",
-													"text": "31",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9imjd",
-													"text": "00:01:13,000 --> 00:01:13,700",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "c9ihj",
-													"text": "customers.",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -929,6 +119,1711 @@
 										"isText": true,
 										"start_offset": 0,
 										"end_offset": 21.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "process is not the other way around.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "72hbp",
+													"text": "process is not the other way around.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 21.2,
+										"end_offset": 22.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "We have over 50 years of catering",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a15pu",
+													"text": "We have over 50 years of catering",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 22.9,
+										"end_offset": 25.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "experience, so we know your payment",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1m26r",
+													"text": "experience, so we know your payment",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 25.6,
+										"end_offset": 27.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "frustration",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9dkga",
+													"text": "frustration",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 27.6,
+										"end_offset": 28.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "to make your life easier",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7eouh",
+													"text": "to make your life easier",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 28.2,
+										"end_offset": 30.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "now. Here's three ways the QA chef is",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "63adv",
+													"text": "now. Here's three ways the QA chef is",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 30.4,
+										"end_offset": 33.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "unique",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6rfj2",
+													"text": "unique",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 33.5,
+										"end_offset": 34.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "firstly",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "923lt",
+													"text": "firstly",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 34.1,
+										"end_offset": 34.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "user-friendly",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3u35r",
+													"text": "user-friendly",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 34.9,
+										"end_offset": 35.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "our",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "csq0m",
+													"text": "our",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 35.9,
+										"end_offset": 36.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "QPAC hand-held. Device",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1fbhr",
+													"text": "QPAC hand-held. Device",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 36.8,
+										"end_offset": 38.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "replaces the paperwork at every critical control point and enables you to take",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5rg8l",
+													"text": "replaces the paperwork at every critical control point and enables you to take",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 38.2,
+										"end_offset": 42.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "photographs of ingredients and dishes with quality control issues",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "339ja",
+													"text": "photographs of ingredients and dishes with quality control issues",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 42.4,
+										"end_offset": 45.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "secondly",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "d3a41",
+													"text": "secondly",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 45.9,
+										"end_offset": 46.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "end-to-end traceability",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1jrmd",
+													"text": "end-to-end traceability",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 46.7,
+										"end_offset": 48.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "gives you complete",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9oqo4",
+													"text": "gives you complete",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 48.3,
+										"end_offset": 50.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "food safety traceability from",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fonvu",
+													"text": "food safety traceability from",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 50.2,
+										"end_offset": 52.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "ingredients received to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cf0hj",
+													"text": "ingredients received to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 52.2,
+										"end_offset": 53.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "preparation in the kitchen",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7lto2",
+													"text": "preparation in the kitchen",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 53.6,
+										"end_offset": 54.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "all the way to the customers. Play the food giving you",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "evdtu",
+													"text": "all the way to the customers. Play the food giving you",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 54.6,
+										"end_offset": 57.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "unprecedented",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3ut7d",
+													"text": "unprecedented",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 57.6,
+										"end_offset": 58.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "risk reduction.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2rcsb",
+													"text": "risk reduction.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 58.5,
+										"end_offset": 59.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "Finally",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "45eu4",
+													"text": "Finally",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 59.9,
+										"end_offset": 60.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "flexibility",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "15p98",
+													"text": "flexibility",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 60.6,
+										"end_offset": 61.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "to any other so you can modify",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "52sg6",
+													"text": "to any other so you can modify",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 61.9,
+										"end_offset": 65.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "QA chef to reflect your specific",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5go6k",
+													"text": "QA chef to reflect your specific",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 65.6,
+										"end_offset": 67.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "catering processes",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fcbtv",
+													"text": "catering processes",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 67.6,
+										"end_offset": 69,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "reduce risk.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6ls4d",
+													"text": "reduce risk.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 69,
+										"end_offset": 70.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "Who's your reputation",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "569l",
+													"text": "Who's your reputation",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 70.4,
+										"end_offset": 71.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "protect your",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7mbbi",
+													"text": "protect your",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 71.5,
+										"end_offset": 73,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "customers?",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#f5f0f0",
+											"rgb": {
+												"r": 245,
+												"g": 240,
+												"b": 240,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ac5gl",
+													"text": "customers?",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 73,
+										"end_offset": 73.7,
 										"isAutoOverlayed": true
 									}
 								],
@@ -1109,7 +2004,8 @@
 											"text": "customers?"
 										}
 									],
-									"font": "Noto Sans"
+									"font": "Noto Sans",
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj.mp4",
