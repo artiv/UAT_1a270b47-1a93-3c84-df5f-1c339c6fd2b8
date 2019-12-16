@@ -946,15 +946,170 @@
 									}
 								],
 								"captions": {
-									"captionString": "1\n00:00:00,000 --> 00:00:21,200\nHello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering\n2\n00:00:21,200 --> 00:00:22,900\nprocess is not the other way around.\n3\n00:00:22,900 --> 00:00:25,600\nWe have over 50 years of catering\n4\n00:00:25,600 --> 00:00:27,600\nexperience, so we know your payment\n5\n00:00:27,600 --> 00:00:28,200\nfrustration\n6\n00:00:28,200 --> 00:00:30,400\nto make your life easier\n7\n00:00:30,400 --> 00:00:33,500\nnow. Here's three ways the QA chef is\n8\n00:00:33,500 --> 00:00:34,100\nunique\n9\n00:00:34,100 --> 00:00:34,900\nfirstly\n10\n00:00:34,900 --> 00:00:35,900\nuser-friendly\n11\n00:00:35,900 --> 00:00:36,800\nour\n12\n00:00:36,800 --> 00:00:38,200\nQPAC hand-held. Device\n13\n00:00:38,200 --> 00:00:42,400\nreplaces the paperwork at every critical control point and enables you to take\n14\n00:00:42,400 --> 00:00:45,900\nphotographs of ingredients and dishes with quality control issues\n15\n00:00:45,900 --> 00:00:46,700\nsecondly\n16\n00:00:46,700 --> 00:00:48,300\nend-to-end traceability\n17\n00:00:48,300 --> 00:00:50,200\ngives you complete\n18\n00:00:50,200 --> 00:00:52,200\nfood safety traceability from\n19\n00:00:52,200 --> 00:00:53,600\ningredients received to\n20\n00:00:53,600 --> 00:00:54,600\npreparation in the kitchen\n21\n00:00:54,600 --> 00:00:57,600\nall the way to the customers. Play the food giving you\n22\n00:00:57,600 --> 00:00:58,500\nunprecedented\n23\n00:00:58,500 --> 00:00:59,200\nrisk reduction.\n24\n00:00:59,900 --> 00:01:00,600\nFinally\n25\n00:01:00,600 --> 00:01:01,900\nflexibility\n26\n00:01:01,900 --> 00:01:07,600\nyour operation is different to any other so you can modify q a shift to reflect your specific\n27\n00:01:07,600 --> 00:01:09,000\ncatering processes\n28\n00:01:09,000 --> 00:01:10,400\nreduce risk\n29\n00:01:10,400 --> 00:01:11,500\nboost your reputation\n30\n00:01:11,500 --> 00:01:13,000\nprotect your\n31\n00:01:13,000 --> 00:01:13,700\ncustomers.\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:21,200\nHello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering\n\n2\n00:00:21,200 --> 00:00:22,900\nprocess is not the other way around.\n\n3\n00:00:22,900 --> 00:00:25,600\nWe have over 50 years of catering\n\n4\n00:00:25,600 --> 00:00:27,600\nexperience, so we know your payment\n\n5\n00:00:27,600 --> 00:00:28,200\nfrustration\n\n6\n00:00:28,200 --> 00:00:30,400\nto make your life easier\n\n7\n00:00:30,400 --> 00:00:33,500\nnow. Here's three ways the QA chef is\n\n8\n00:00:33,500 --> 00:00:34,100\nunique\n\n9\n00:00:34,100 --> 00:00:34,900\nfirstly\n\n10\n00:00:34,900 --> 00:00:35,900\nuser-friendly\n\n11\n00:00:35,900 --> 00:00:36,800\nour\n\n12\n00:00:36,800 --> 00:00:38,200\nQPAC hand-held. Device\n\n13\n00:00:38,200 --> 00:00:42,400\nreplaces the paperwork at every critical control point and enables you to take\n\n14\n00:00:42,400 --> 00:00:45,900\nphotographs of ingredients and dishes with quality control issues\n\n15\n00:00:45,900 --> 00:00:46,700\nsecondly\n\n16\n00:00:46,700 --> 00:00:48,300\nend-to-end traceability\n\n17\n00:00:48,300 --> 00:00:50,200\ngives you complete\n\n18\n00:00:50,200 --> 00:00:52,200\nfood safety traceability from\n\n19\n00:00:52,200 --> 00:00:53,600\ningredients received to\n\n20\n00:00:53,600 --> 00:00:54,600\npreparation in the kitchen\n\n21\n00:00:54,600 --> 00:00:57,600\nall the way to the customers. Play the food giving you\n\n22\n00:00:57,600 --> 00:00:58,500\nunprecedented\n\n23\n00:00:58,500 --> 00:00:59,200\nrisk reduction.\n\n24\n00:00:59,900 --> 00:01:00,600\nFinally\n\n25\n00:01:00,600 --> 00:01:01,900\nflexibility\n\n26\n00:01:01,900 --> 00:01:05,600\nto any other so you can modify\n\n27\n00:01:05,600 --> 00:01:07,600\nQA chef to reflect your specific\n\n28\n00:01:07,600 --> 00:01:09,000\ncatering processes\n\n29\n00:01:09,000 --> 00:01:10,400\nreduce risk.\n\n30\n00:01:10,400 --> 00:01:11,500\nWho's your reputation\n\n31\n00:01:11,500 --> 00:01:13,000\nprotect your\n\n32\n00:01:13,000 --> 00:01:13,700\ncustomers?\n",
 									"parsed": [
 										{
 											"start": 0,
 											"end": 21200,
-											"text": "Hello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering\n2\n00:00:21,200 --> 00:00:22,900\nprocess is not the other way around.\n3\n00:00:22,900 --> 00:00:25,600\nWe have over 50 years of catering\n4\n00:00:25,600 --> 00:00:27,600\nexperience, so we know your payment\n5\n00:00:27,600 --> 00:00:28,200\nfrustration\n6\n00:00:28,200 --> 00:00:30,400\nto make your life easier\n7\n00:00:30,400 --> 00:00:33,500\nnow. Here's three ways the QA chef is\n8\n00:00:33,500 --> 00:00:34,100\nunique\n9\n00:00:34,100 --> 00:00:34,900\nfirstly\n10\n00:00:34,900 --> 00:00:35,900\nuser-friendly\n11\n00:00:35,900 --> 00:00:36,800\nour\n12\n00:00:36,800 --> 00:00:38,200\nQPAC hand-held. Device\n13\n00:00:38,200 --> 00:00:42,400\nreplaces the paperwork at every critical control point and enables you to take\n14\n00:00:42,400 --> 00:00:45,900\nphotographs of ingredients and dishes with quality control issues\n15\n00:00:45,900 --> 00:00:46,700\nsecondly\n16\n00:00:46,700 --> 00:00:48,300\nend-to-end traceability\n17\n00:00:48,300 --> 00:00:50,200\ngives you complete\n18\n00:00:50,200 --> 00:00:52,200\nfood safety traceability from\n19\n00:00:52,200 --> 00:00:53,600\ningredients received to\n20\n00:00:53,600 --> 00:00:54,600\npreparation in the kitchen\n21\n00:00:54,600 --> 00:00:57,600\nall the way to the customers. Play the food giving you\n22\n00:00:57,600 --> 00:00:58,500\nunprecedented\n23\n00:00:58,500 --> 00:00:59,200\nrisk reduction.\n24\n00:00:59,900 --> 00:01:00,600\nFinally\n25\n00:01:00,600 --> 00:01:01,900\nflexibility\n26\n00:01:01,900 --> 00:01:07,600\nyour operation is different to any other so you can modify q a shift to reflect your specific\n27\n00:01:07,600 --> 00:01:09,000\ncatering processes\n28\n00:01:09,000 --> 00:01:10,400\nreduce risk\n29\n00:01:10,400 --> 00:01:11,500\nboost your reputation\n30\n00:01:11,500 --> 00:01:13,000\nprotect your\n31\n00:01:13,000 --> 00:01:13,700\ncustomers."
+											"text": "Hello. I'm David Cox founder and CEO of QA chef the food safety system that conforms to your catering"
+										},
+										{
+											"start": 21200,
+											"end": 22900,
+											"text": "process is not the other way around."
+										},
+										{
+											"start": 22900,
+											"end": 25600,
+											"text": "We have over 50 years of catering"
+										},
+										{
+											"start": 25600,
+											"end": 27600,
+											"text": "experience, so we know your payment"
+										},
+										{
+											"start": 27600,
+											"end": 28200,
+											"text": "frustration"
+										},
+										{
+											"start": 28200,
+											"end": 30400,
+											"text": "to make your life easier"
+										},
+										{
+											"start": 30400,
+											"end": 33500,
+											"text": "now. Here's three ways the QA chef is"
+										},
+										{
+											"start": 33500,
+											"end": 34100,
+											"text": "unique"
+										},
+										{
+											"start": 34100,
+											"end": 34900,
+											"text": "firstly"
+										},
+										{
+											"start": 34900,
+											"end": 35900,
+											"text": "user-friendly"
+										},
+										{
+											"start": 35900,
+											"end": 36800,
+											"text": "our"
+										},
+										{
+											"start": 36800,
+											"end": 38200,
+											"text": "QPAC hand-held. Device"
+										},
+										{
+											"start": 38200,
+											"end": 42400,
+											"text": "replaces the paperwork at every critical control point and enables you to take"
+										},
+										{
+											"start": 42400,
+											"end": 45900,
+											"text": "photographs of ingredients and dishes with quality control issues"
+										},
+										{
+											"start": 45900,
+											"end": 46700,
+											"text": "secondly"
+										},
+										{
+											"start": 46700,
+											"end": 48300,
+											"text": "end-to-end traceability"
+										},
+										{
+											"start": 48300,
+											"end": 50200,
+											"text": "gives you complete"
+										},
+										{
+											"start": 50200,
+											"end": 52200,
+											"text": "food safety traceability from"
+										},
+										{
+											"start": 52200,
+											"end": 53600,
+											"text": "ingredients received to"
+										},
+										{
+											"start": 53600,
+											"end": 54600,
+											"text": "preparation in the kitchen"
+										},
+										{
+											"start": 54600,
+											"end": 57600,
+											"text": "all the way to the customers. Play the food giving you"
+										},
+										{
+											"start": 57600,
+											"end": 58500,
+											"text": "unprecedented"
+										},
+										{
+											"start": 58500,
+											"end": 59200,
+											"text": "risk reduction."
+										},
+										{
+											"start": 59900,
+											"end": 60600,
+											"text": "Finally"
+										},
+										{
+											"start": 60600,
+											"end": 61900,
+											"text": "flexibility"
+										},
+										{
+											"start": 61900,
+											"end": 65600,
+											"text": "to any other so you can modify"
+										},
+										{
+											"start": 65600,
+											"end": 67600,
+											"text": "QA chef to reflect your specific"
+										},
+										{
+											"start": 67600,
+											"end": 69000,
+											"text": "catering processes"
+										},
+										{
+											"start": 69000,
+											"end": 70400,
+											"text": "reduce risk."
+										},
+										{
+											"start": 70400,
+											"end": 71500,
+											"text": "Who's your reputation"
+										},
+										{
+											"start": 71500,
+											"end": 73000,
+											"text": "protect your"
+										},
+										{
+											"start": 73000,
+											"end": 73700,
+											"text": "customers?"
 										}
 									],
-									"isAttached": false
+									"font": "Noto Sans"
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/qa_chef_video1_ceo_message_vtJt_ToJj.mp4",
