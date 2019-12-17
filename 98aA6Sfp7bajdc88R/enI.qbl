@@ -4038,7 +4038,18 @@
 											"end": 1645100,
 											"text": "යොමුකරනු ලබනවා"
 										}
-									]
+									],
+									"color": {
+										"hex": "#faf4f4",
+										"rgb": {
+											"r": 250,
+											"g": 244,
+											"b": 244,
+											"a": 1
+										}
+									},
+									"size": 30,
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR.mp4"
