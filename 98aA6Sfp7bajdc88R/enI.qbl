@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_q8Dk",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FSEARCH%20LIGHT%20Episode%2035%20-%20VACD%20BANDARAWELA_9CLi_pXTR_q8Dk.mp4?generation=1576596924937976&alt=media",
+								"public_id": "SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_3NsC",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FSEARCH%20LIGHT%20Episode%2035%20-%20VACD%20BANDARAWELA_9CLi_pXTR_3NsC.mp4?generation=1576601855336434&alt=media",
 								"originalName": "",
-								"size": "124192478",
+								"size": "510289875",
 								"lastModified": 1576584506780,
-								"lastModifiedDate": "2019-12-17T15:35:24.937Z",
+								"lastModifiedDate": "2019-12-17T16:57:35.336Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 1714.259592,
 								"width": 492,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_q8Dk.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_3NsC.mp4",
 								"overlays": [
 									{
 										"x": 0,
@@ -47559,11 +47559,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_q8Dk.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_q8Dk.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_3NsC.mp4"
 								],
 								"transformedPublicIds": [
 									"SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR",
-									"SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_q8Dk"
+									"SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_q8Dk",
+									"SEARCH LIGHT Episode 35 - VACD BANDARAWELA_9CLi_pXTR_3NsC"
 								],
 								"embed": {
 									"width": 492,
