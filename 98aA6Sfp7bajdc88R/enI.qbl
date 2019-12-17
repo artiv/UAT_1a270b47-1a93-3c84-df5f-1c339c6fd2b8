@@ -2048,7 +2048,8 @@
 									"y": 0,
 									"useXY": false
 								},
-								"contentType": "video/mp4"
+								"contentType": "video/mp4",
+								"viewSelection": 50
 							}
 						],
 						"fieldChildren": []
