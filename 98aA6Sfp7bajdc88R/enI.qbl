@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "Future Man - 213 - P193514_KEF7_Gdfv_dXNB",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FFuture%20Man%20-%20213%20-%20P193514_KEF7_Gdfv_dXNB.mp4?generation=1577423287226268&alt=media",
+								"public_id": "Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FFuture%20Man%20-%20213%20-%20P193514_KEF7_Gdfv_dXNB_cstM.mp4?generation=1577426176399561&alt=media",
 								"originalName": "",
-								"size": "146283122",
+								"size": "396971013",
 								"lastModified": 1577423051764,
-								"lastModifiedDate": "2019-12-27T05:08:07.226Z",
+								"lastModifiedDate": "2019-12-27T05:56:16.399Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 1732.139,
 								"width": 720,
 								"height": 486,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM.mp4",
 								"overlays": [
 									{
 										"x": 0,
@@ -28888,10 +28888,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM.mp4"
 								],
 								"transformedPublicIds": [
-									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB"
+									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB",
+									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM"
 								],
 								"embed": {
 									"width": 720,
@@ -28923,21 +28925,22 @@
 									"x": 0,
 									"y": 0,
 									"useXY": false
-								}
+								},
+								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "The Simpsons - 2016 - P011788_AabX_r3hj_gPWn",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4",
+								"public_id": "The Simpsons - 2016 - P011788_AabX_r3hj_gPWn_mju8",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FThe%20Simpsons%20-%202016%20-%20P011788_AabX_r3hj_gPWn_mju8.mp4?generation=1577426239124584&alt=media",
 								"originalName": "",
-								"size": 195233998,
+								"size": "519164765",
 								"lastModified": 1577425448171,
-								"lastModifiedDate": "2019-12-27T05:44:08.171Z",
+								"lastModifiedDate": "2019-12-27T05:57:19.124Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 1697.658,
 								"width": 720,
 								"height": 486,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn_mju8.mp4",
 								"overlays": [
 									{
 										"x": 0,
@@ -49910,10 +49913,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn_mju8.mp4"
 								],
 								"transformedPublicIds": [
-									"The Simpsons - 2016 - P011788_AabX_r3hj_gPWn"
+									"The Simpsons - 2016 - P011788_AabX_r3hj_gPWn",
+									"The Simpsons - 2016 - P011788_AabX_r3hj_gPWn_mju8"
 								],
 								"embed": {
 									"width": 720,
@@ -49945,7 +49950,8 @@
 									"x": 0,
 									"y": 0,
 									"useXY": false
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
