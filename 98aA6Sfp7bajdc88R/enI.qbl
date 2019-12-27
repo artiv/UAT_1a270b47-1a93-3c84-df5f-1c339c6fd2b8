@@ -2505,6 +2505,55 @@
 									"caption": "",
 									"seoSuffix": "future-man---213---p193514_kef7_gdfv"
 								}
+							},
+							{
+								"public_id": "The Simpsons - 2016 - P011788_AabX_r3hj_gPWn",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4",
+								"originalName": "",
+								"size": 195233998,
+								"lastModified": 1577425448171,
+								"lastModifiedDate": "2019-12-27T05:44:08.171Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 1697.658,
+								"width": 720,
+								"height": 486,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 1697.658,
+										"duration": 1697.658,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/The Simpsons - 2016 - P011788_AabX_r3hj_gPWn.mp4"
+								],
+								"transformedPublicIds": [
+									"The Simpsons - 2016 - P011788_AabX_r3hj_gPWn"
+								],
+								"embed": {
+									"width": 720,
+									"height": 486,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "the-simpsons---2016---p011788_aabx_r3hj"
+								}
 							}
 						],
 						"fieldChildren": []
