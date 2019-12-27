@@ -51,7 +51,57 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "Future Man - 213 - P193514_KEF7_Gdfv_dXNB",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FFuture%20Man%20-%20213%20-%20P193514_KEF7_Gdfv_dXNB.mp4?generation=1577423287226268&alt=media",
+								"originalName": "",
+								"size": "146283122",
+								"lastModified": 1577423051764,
+								"lastModifiedDate": "2019-12-27T05:08:07.226Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 1732.139,
+								"width": 720,
+								"height": 486,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 1732.139,
+										"duration": 1732.139,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB.mp4"
+								],
+								"transformedPublicIds": [
+									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB"
+								],
+								"embed": {
+									"width": 720,
+									"height": 486,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "future-man---213---p193514_kef7_gdfv"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
