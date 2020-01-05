@@ -21372,21 +21372,21 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ede4e4",
+											"hex": "#eee6e6",
 											"rgb": {
-												"r": 237,
-												"g": 228,
-												"b": 228,
+												"r": 238,
+												"g": 230,
+												"b": 230,
 												"a": 1
 											}
 										},
-										"horizontalAlignment": "right",
+										"horizontalAlignment": "center",
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1a91t",
+													"key": "2r90c",
 													"text": "I'm a cool guy. That's that's my Fang.",
 													"type": "unstyled",
 													"depth": 0,
@@ -21428,21 +21428,21 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ede4e4",
+											"hex": "#eee6e6",
 											"rgb": {
-												"r": 237,
-												"g": 228,
-												"b": 228,
+												"r": 238,
+												"g": 230,
+												"b": 230,
 												"a": 1
 											}
 										},
-										"horizontalAlignment": "right",
+										"horizontalAlignment": "center",
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bj55r",
+													"key": "9pq5",
 													"text": "I'm here 5 i surf the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -21484,21 +21484,21 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ede4e4",
+											"hex": "#eee6e6",
 											"rgb": {
-												"r": 237,
-												"g": 228,
-												"b": 228,
+												"r": 238,
+												"g": 230,
+												"b": 230,
 												"a": 1
 											}
 										},
-										"horizontalAlignment": "right",
+										"horizontalAlignment": "center",
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "550f9",
+													"key": "f0615",
 													"text": "text",
 													"type": "unstyled",
 													"depth": 0,
@@ -21540,21 +21540,21 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ede4e4",
+											"hex": "#eee6e6",
 											"rgb": {
-												"r": 237,
-												"g": 228,
-												"b": 228,
+												"r": 238,
+												"g": 230,
+												"b": 230,
 												"a": 1
 											}
 										},
-										"horizontalAlignment": "right",
+										"horizontalAlignment": "center",
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "sv6b",
+													"key": "3ibgl",
 													"text": "LOL.",
 													"type": "unstyled",
 													"depth": 0,
