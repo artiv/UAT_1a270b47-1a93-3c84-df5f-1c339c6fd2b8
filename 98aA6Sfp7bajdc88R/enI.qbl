@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FFuture%20Man%20-%20213%20-%20P193514_KEF7_Gdfv_dXNB_cstM.mp4?generation=1577426176399561&alt=media",
+								"public_id": "Future Man - 213 - P193514_KEF7_Gdfv_dXNB_hRS7",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FFuture%20Man%20-%20213%20-%20P193514_KEF7_Gdfv_dXNB_hRS7.mp4?generation=1578293338756938&alt=media",
 								"originalName": "",
-								"size": "396971013",
+								"size": "390406907",
 								"lastModified": 1577423051764,
-								"lastModifiedDate": "2019-12-27T05:56:16.399Z",
+								"lastModifiedDate": "2020-01-06T06:48:58.756Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 1732.139,
 								"width": 720,
 								"height": 486,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_hRS7.mp4",
 								"overlays": [
 									{
 										"x": 0,
@@ -277,11 +277,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/Future Man - 213 - P193514_KEF7_Gdfv_dXNB_hRS7.mp4"
 								],
 								"transformedPublicIds": [
 									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB",
-									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM"
+									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB_cstM",
+									"Future Man - 213 - P193514_KEF7_Gdfv_dXNB_hRS7"
 								],
 								"embed": {
 									"width": 720,
