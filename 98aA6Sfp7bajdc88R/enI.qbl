@@ -165,7 +165,22 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Text?",
 						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"blocks": [
+									{
+										"key": "8b5b5",
+										"text": "hi",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								],
+								"entityMap": {}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
