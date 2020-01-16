@@ -53,18 +53,18 @@
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
 						"fieldValues": [
 							{
-								"public_id": "modern_RnoR_JaYh",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_RnoR_JaYh.mp4?generation=1579168768052589&alt=media",
+								"public_id": "modern_RnoR_mqg9",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_RnoR_mqg9.mp4?generation=1579168853698149&alt=media",
 								"originalName": "modern",
-								"size": "2853352",
+								"size": "2770398",
 								"lastModified": 1571038151662,
-								"lastModifiedDate": "2020-01-16T09:59:28.052Z",
+								"lastModifiedDate": "2020-01-16T10:00:53.697Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_RnoR_JaYh.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_RnoR_mqg9.mp4",
 								"overlays": [
 									{
 										"x": 0,
@@ -1137,12 +1137,14 @@
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_RnoR.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_RnoR_FJhi.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_RnoR_JaYh.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_RnoR_JaYh.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_RnoR_mqg9.mp4"
 								],
 								"transformedPublicIds": [
 									"modern_RnoR",
 									"modern_RnoR_FJhi",
-									"modern_RnoR_JaYh"
+									"modern_RnoR_JaYh",
+									"modern_RnoR_mqg9"
 								],
 								"embed": {
 									"width": 480,
