@@ -1121,7 +1121,8 @@
 											"text": "it"
 										}
 									],
-									"isAttached": false
+									"isAttached": false,
+									"font": "Noto Sans"
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_RnoR.mp4",
