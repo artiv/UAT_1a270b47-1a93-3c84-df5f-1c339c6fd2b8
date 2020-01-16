@@ -1122,7 +1122,17 @@
 										}
 									],
 									"isAttached": false,
-									"font": "Noto Sans"
+									"font": "Noto Sans",
+									"size": 30,
+									"color": {
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										},
+										"hex": "#ffffff"
+									}
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_RnoR.mp4",
