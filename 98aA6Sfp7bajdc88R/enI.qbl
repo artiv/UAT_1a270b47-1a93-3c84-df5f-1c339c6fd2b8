@@ -73,7 +73,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "I'm a cool guy. That's that's my Fang.",
 										"font": "Noto Sans",
@@ -93,7 +93,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7gt27",
+													"key": "20e7m",
 													"text": "I'm a cool guy. That's that's my Fang.",
 													"type": "unstyled",
 													"depth": 0,
@@ -129,7 +129,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "I'm here 5 i surf the web I",
 										"font": "Noto Sans",
@@ -149,7 +149,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8h1ub",
+													"key": "16p1k",
 													"text": "I'm here 5 i surf the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -185,7 +185,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "text",
 										"font": "Noto Sans",
@@ -205,7 +205,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d8606",
+													"key": "7s87e",
 													"text": "text",
 													"type": "unstyled",
 													"depth": 0,
@@ -241,7 +241,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "LOL.",
 										"font": "Noto Sans",
@@ -261,7 +261,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "86e6t",
+													"key": "2ga6i",
 													"text": "LOL.",
 													"type": "unstyled",
 													"depth": 0,
@@ -297,7 +297,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Laugh out loud",
 										"font": "Noto Sans",
@@ -317,7 +317,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6mejm",
+													"key": "cdh81",
 													"text": "Laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -353,7 +353,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "OMG. Oh my God",
 										"font": "Noto Sans",
@@ -373,7 +373,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bbogu",
+													"key": "p9un",
 													"text": "OMG. Oh my God",
 													"type": "unstyled",
 													"depth": 0,
@@ -409,7 +409,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "WTF why the FaZe?",
 										"font": "Noto Sans",
@@ -429,7 +429,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "imj3",
+													"key": "3ji8p",
 													"text": "WTF why the FaZe?",
 													"type": "unstyled",
 													"depth": 0,
@@ -465,7 +465,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "You know, I know all the dances High School Musical",
 										"font": "Noto Sans",
@@ -485,7 +485,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dc3uo",
+													"key": "32jq8",
 													"text": "You know, I know all the dances High School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -521,7 +521,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "We're All",
 										"font": "Noto Sans",
@@ -541,7 +541,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5jpi9",
+													"key": "9gd2",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -577,7 +577,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "in This",
 										"font": "Noto Sans",
@@ -597,7 +597,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6lvnn",
+													"key": "3louq",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -633,7 +633,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Together.",
 										"font": "Noto Sans",
@@ -653,7 +653,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dvbch",
+													"key": "919k7",
 													"text": "Together.",
 													"type": "unstyled",
 													"depth": 0,
@@ -689,7 +689,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Yes, we are",
 										"font": "Noto Sans",
@@ -709,7 +709,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f8g9q",
+													"key": "19b43",
 													"text": "Yes, we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -745,7 +745,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "we're all",
 										"font": "Noto Sans",
@@ -765,7 +765,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8g3sd",
+													"key": "fnvl",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -801,7 +801,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "stars",
 										"font": "Noto Sans",
@@ -821,7 +821,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b193t",
+													"key": "entg9",
 													"text": "stars",
 													"type": "unstyled",
 													"depth": 0,
@@ -857,7 +857,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "and",
 										"font": "Noto Sans",
@@ -877,7 +877,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8o4qd",
+													"key": "8cu5o",
 													"text": "and",
 													"type": "unstyled",
 													"depth": 0,
@@ -913,7 +913,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "you know",
 										"font": "Noto Sans",
@@ -933,7 +933,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "66elg",
+													"key": "70lh4",
 													"text": "you know",
 													"type": "unstyled",
 													"depth": 0,
@@ -969,7 +969,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "it",
 										"font": "Noto Sans",
@@ -989,7 +989,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7i7vl",
+													"key": "36uub",
 													"text": "it",
 													"type": "unstyled",
 													"depth": 0,
@@ -1147,7 +1147,7 @@
 								},
 								"underlay": {
 									"show": "stripe",
-									"gravity": "south",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
