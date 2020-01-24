@@ -1,0 +1,293 @@
+{
+	"fileName": "en_quickItem_ZCWg.qbl",
+	"fileTemplateRepo": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8",
+	"fileTemplatePath": "98aA6Sfp7bajdc88R/en_myTemplate.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "6a48af72-04e4-2373-d569-deac7ce408b5",
+			"fileItemDate": "2020-01-24T06:04:17.788Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "AYLTshE295jdpQ93r",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "your-money_GvGv",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_GvGv.mp4",
+								"originalName": "your-money",
+								"size": 5154832,
+								"lastModified": 1579845762404,
+								"lastModifiedDate": "2020-01-24T06:02:42.404Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 21.184,
+								"width": 576,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_GvGv.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 21.184,
+										"duration": 21.184,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,700\nTurn onto a fund manager from the USA\n\n2\n00:00:02,700 --> 00:00:04,100\nspecialises in\n\n3\n00:00:04,100 --> 00:00:07,300\nreally really good culture,\n\n4\n00:00:07,300 --> 00:00:11,000\nand they've been one of the best performing fund managers in the world.\n\n5\n00:00:11,000 --> 00:00:13,600\nMaybe we should be investing following a royal commission\n\n6\n00:00:13,600 --> 00:00:15,000\nin companies that have\n\n7\n00:00:15,000 --> 00:00:15,600\nreally\n\n8\n00:00:15,600 --> 00:00:16,800\nreally good culture\n\n9\n00:00:16,800 --> 00:00:18,800\ntonight. I'm Money Talks\n\n10\n00:00:18,800 --> 00:00:20,800\n7:30 your money channel.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 2700,
+											"text": "Turn onto a fund manager from the USA"
+										},
+										{
+											"start": 2700,
+											"end": 4100,
+											"text": "specialises in"
+										},
+										{
+											"start": 4100,
+											"end": 7300,
+											"text": "really really good culture,"
+										},
+										{
+											"start": 7300,
+											"end": 11000,
+											"text": "and they've been one of the best performing fund managers in the world."
+										},
+										{
+											"start": 11000,
+											"end": 13600,
+											"text": "Maybe we should be investing following a royal commission"
+										},
+										{
+											"start": 13600,
+											"end": 15000,
+											"text": "in companies that have"
+										},
+										{
+											"start": 15000,
+											"end": 15600,
+											"text": "really"
+										},
+										{
+											"start": 15600,
+											"end": 16800,
+											"text": "really good culture"
+										},
+										{
+											"start": 16800,
+											"end": 18800,
+											"text": "tonight. I'm Money Talks"
+										},
+										{
+											"start": 18800,
+											"end": 20800,
+											"text": "7:30 your money channel."
+										}
+									],
+									"isAttached": false
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fyour-money_GvGv.mp4"
+								],
+								"transformedPublicIds": [
+									"your-money_GvGv"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "your-money"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
