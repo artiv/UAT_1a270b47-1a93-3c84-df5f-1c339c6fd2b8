@@ -1,0 +1,308 @@
+{
+	"fileName": "en_quickItem_Qtwj.qbl",
+	"fileTemplateRepo": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8",
+	"fileTemplatePath": "98aA6Sfp7bajdc88R/en_myTemplate.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "02c31c01-ee3d-4913-d0c4-764dc605f532",
+			"fileItemDate": "2020-01-24T06:09:51.014Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "AYLTshE295jdpQ93r",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "your-money_GvGv_A8Xb",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_GvGv_A8Xb.mp4",
+								"originalName": "",
+								"size": 5154832,
+								"lastModified": 1579846174364,
+								"lastModifiedDate": "2020-01-24T06:09:34.364Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 21.184,
+								"width": 576,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_GvGv_A8Xb.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 21.184,
+										"duration": 21.184,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,700\nTurn on talking to a fund manager from the USA\n\n2\n00:00:02,700 --> 00:00:03,300\nwho\n\n3\n00:00:03,300 --> 00:00:04,100\nspecialises in\n\n4\n00:00:04,100 --> 00:00:04,700\npicking\n\n5\n00:00:04,700 --> 00:00:05,400\ncompanies,\n\n6\n00:00:05,400 --> 00:00:07,300\nreally really good culture,\n\n7\n00:00:07,300 --> 00:00:11,000\nand they've been one of the best performing fund managers in the world.\n\n8\n00:00:11,000 --> 00:00:13,700\nMaybe we should be investing following the royal commission\n\n9\n00:00:13,700 --> 00:00:15,000\nin companies that have\n\n10\n00:00:15,000 --> 00:00:15,600\nreally\n\n11\n00:00:15,600 --> 00:00:16,800\nreally good culture\n\n12\n00:00:16,800 --> 00:00:18,800\ntonight. I'm money to it's\n\n13\n00:00:18,800 --> 00:00:20,800\n7:30 your money channel.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 2700,
+											"text": "Turn on talking to a fund manager from the USA"
+										},
+										{
+											"start": 2700,
+											"end": 3300,
+											"text": "who"
+										},
+										{
+											"start": 3300,
+											"end": 4100,
+											"text": "specialises in"
+										},
+										{
+											"start": 4100,
+											"end": 4700,
+											"text": "picking"
+										},
+										{
+											"start": 4700,
+											"end": 5400,
+											"text": "companies,"
+										},
+										{
+											"start": 5400,
+											"end": 7300,
+											"text": "really really good culture,"
+										},
+										{
+											"start": 7300,
+											"end": 11000,
+											"text": "and they've been one of the best performing fund managers in the world."
+										},
+										{
+											"start": 11000,
+											"end": 13700,
+											"text": "Maybe we should be investing following the royal commission"
+										},
+										{
+											"start": 13700,
+											"end": 15000,
+											"text": "in companies that have"
+										},
+										{
+											"start": 15000,
+											"end": 15600,
+											"text": "really"
+										},
+										{
+											"start": 15600,
+											"end": 16800,
+											"text": "really good culture"
+										},
+										{
+											"start": 16800,
+											"end": 18800,
+											"text": "tonight. I'm money to it's"
+										},
+										{
+											"start": 18800,
+											"end": 20800,
+											"text": "7:30 your money channel."
+										}
+									],
+									"isAttached": false
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/your-money_GvGv_A8Xb.mp4"
+								],
+								"transformedPublicIds": [
+									"your-money_GvGv_A8Xb"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "your-money_gvgv"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
