@@ -93,9 +93,28 @@
 							{
 								"public_id": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ezx95uq4imcvojnflqab",
 								"captions": {
-									"captionString": "hi how are you? good",
+									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my Fang.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here 5 i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.",
 									"parsed": [
-										{}
+										{
+											"start": 3000,
+											"end": 6300,
+											"text": "I'm a cool guy. That's that's my Fang."
+										},
+										{
+											"start": 7400,
+											"end": 9400,
+											"text": "I'm here 5 i surf the web I"
+										},
+										{
+											"start": 9400,
+											"end": 10000,
+											"text": "text"
+										},
+										{
+											"start": 10000,
+											"end": 10600,
+											"text": "LOL."
+										}
 									]
 								},
 								"overlays": [],
@@ -131,8 +150,6 @@
 								"type": "upload",
 								"etag": "cc84d6fceabdfe6a109eb3cdf360b59c",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1580107800/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ezx95uq4imcvojnflqab.mp3",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1580107800/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ezx95uq4imcvojnflqab.mp3",
 								"access_mode": "public",
 								"audio": {
 									"codec": "mp3",
@@ -142,8 +159,7 @@
 									"channel_layout": "mono"
 								},
 								"video": {},
-								"bit_rate": 32000,
-								"duration": 1.176
+								"bit_rate": 32000
 							}
 						],
 						"fieldChildren": []
