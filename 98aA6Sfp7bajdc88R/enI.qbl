@@ -1214,9 +1214,9 @@
 						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
 						"fieldValues": [
 							{
-								"public_id": "enI_Dfuv",
+								"public_id": "enI_Z7BT",
 								"captions": {
-									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my Fang.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here 5 i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.\n\n5\n00:00:10,600 --> 00:00:11,400\nLaugh out loud\n\n6\n00:00:11,400 --> 00:00:13,100\nOMG. Oh my God\n\n7\n00:00:13,100 --> 00:00:14,700\nWTF why the FaZe?",
+									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my Fang.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here 5 i surf the web I",
 									"parsed": [
 										{
 											"start": 3000,
@@ -1227,31 +1227,6 @@
 											"start": 7400,
 											"end": 9400,
 											"text": "I'm here 5 i surf the web I"
-										},
-										{
-											"start": 9400,
-											"end": 10000,
-											"text": "text"
-										},
-										{
-											"start": 10000,
-											"end": 10600,
-											"text": "LOL."
-										},
-										{
-											"start": 10600,
-											"end": 11400,
-											"text": "Laugh out loud"
-										},
-										{
-											"start": 11400,
-											"end": 13100,
-											"text": "OMG. Oh my God"
-										},
-										{
-											"start": 13100,
-											"end": 14700,
-											"text": "WTF why the FaZe?"
 										}
 									]
 								},
@@ -1259,7 +1234,7 @@
 								"is_audio": true,
 								"transformedURLs": [],
 								"transformedPublicIds": [
-									"enI_Dfuv"
+									"enI_Z7BT"
 								],
 								"embed": {
 									"width": 100,
