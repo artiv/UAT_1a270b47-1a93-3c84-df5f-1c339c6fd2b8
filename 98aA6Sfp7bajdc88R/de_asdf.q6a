@@ -21,7 +21,43 @@
 			]
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "f6491e3f-d299-1454-e0f5-c531d8b2e8e2",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"genericIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Text?",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "e62ba096-97d0-568b-0834-cb462f2fd8b2",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": [
 				{
 					"fieldGeneral": {
@@ -160,7 +196,7 @@
 						"fieldCanChild": false
 					},
 					"fieldSpecific": {
-						"fieldInformation": "Please upload Text?",
+						"fieldInformation": "duh",
 						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
 						"fieldValues": [],
 						"fieldChildren": []
