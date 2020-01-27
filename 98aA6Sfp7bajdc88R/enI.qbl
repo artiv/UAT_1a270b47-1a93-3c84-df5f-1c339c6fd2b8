@@ -91,7 +91,7 @@
 						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
 						"fieldValues": [
 							{
-								"public_id": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ezx95uq4imcvojnflqab",
+								"public_id": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ihn7kfrb3szqeqtwhbj4",
 								"captions": {
 									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my Fang.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here 5 i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.",
 									"parsed": [
@@ -137,18 +137,18 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"version": 1580107800,
-								"signature": "2fee365f2636ba763d590c86186646d553ba126f",
+								"version": 1580109541,
+								"signature": "2ce8679f7bdbf99825ebcddded39845e2ffac09e",
 								"width": 0,
 								"height": 0,
 								"format": "mp3",
 								"resource_type": "video",
-								"created_at": "2020-01-27T06:50:00Z",
+								"created_at": "2020-01-27T07:19:01Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 4704,
+								"bytes": 21312,
 								"type": "upload",
-								"etag": "cc84d6fceabdfe6a109eb3cdf360b59c",
+								"etag": "05eedb7f658cb0cb5830d144d9547268",
 								"placeholder": false,
 								"access_mode": "public",
 								"audio": {
@@ -159,7 +159,10 @@
 									"channel_layout": "mono"
 								},
 								"video": {},
-								"bit_rate": 32000
+								"bit_rate": 32000,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1580109541/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ihn7kfrb3szqeqtwhbj4.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1580109541/UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8/ihn7kfrb3szqeqtwhbj4.mp3",
+								"duration": 5.328
 							}
 						],
 						"fieldChildren": []
