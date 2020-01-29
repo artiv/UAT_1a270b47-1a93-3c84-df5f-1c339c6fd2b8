@@ -51,7 +51,46 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "animation (1)_szja",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fanimation%20(1)_szja.mp4",
+								"originalName": "animation (1)",
+								"size": 2094412,
+								"lastModified": 1580275938761,
+								"lastModifiedDate": "2020-01-29T05:32:18.761Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 31.234,
+								"width": 1080,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fanimation%20(1)_szja.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fanimation%20(1)_szja.mp4"
+								],
+								"transformedPublicIds": [
+									"animation (1)_szja"
+								],
+								"embed": {
+									"width": 1080,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "animation-(1)"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
