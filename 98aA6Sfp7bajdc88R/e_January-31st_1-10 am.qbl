@@ -1,0 +1,273 @@
+{
+	"fileName": "e_January-31st_1-10 am.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "8647b5d8-36ec-a31f-b076-29d921cf14e3",
+			"fileItemDate": "2020-01-30T19:40:18.339Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Lm5abaJ3NpPJxP5o2",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "animation (1)_szja",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fanimation%20(1)_szja.mp4",
+								"originalName": "animation (1)",
+								"size": 2094412,
+								"lastModified": 1580275938761,
+								"lastModifiedDate": "2020-01-29T05:32:18.761Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 31.234,
+								"width": 1080,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fanimation%20(1)_szja.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fanimation%20(1)_szja.mp4"
+								],
+								"transformedPublicIds": [
+									"animation (1)_szja"
+								],
+								"embed": {
+									"width": 1080,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "animation-(1)"
+								}
+							},
+							{
+								"public_id": "modern_yWZX",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_yWZX.mp4",
+								"originalName": "modern",
+								"size": 1398635,
+								"lastModified": 1571038151662,
+								"lastModifiedDate": "2019-10-14T07:29:11.662Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_yWZX.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.139501,
+										"duration": 30.139501,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_yWZX.mp4"
+								],
+								"transformedPublicIds": [
+									"modern_yWZX"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modern"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
