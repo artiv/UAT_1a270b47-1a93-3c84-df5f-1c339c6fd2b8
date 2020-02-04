@@ -100,6 +100,55 @@
 									"caption": "",
 									"seoSuffix": "modern_6jlb"
 								}
+							},
+							{
+								"public_id": "modern_6JLB_x73e",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_6JLB_x73e.mp4",
+								"originalName": "",
+								"size": 1398635,
+								"lastModified": 1580806512046,
+								"lastModifiedDate": "2020-02-04T08:55:12.046Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_6JLB_x73e.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.139501,
+										"duration": 30.139501,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modern_6JLB_x73e.mp4"
+								],
+								"transformedPublicIds": [
+									"modern_6JLB_x73e"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modern_6jlb"
+								}
 							}
 						],
 						"fieldChildren": []
