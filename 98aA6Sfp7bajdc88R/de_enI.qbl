@@ -1,0 +1,380 @@
+{
+	"fileName": "de_enI.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "5a8db5ac-9bd4-8cb4-0333-ae30e859f069",
+			"fileItemDate": "2020-02-22T08:52:44.287Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "NRmEqxf9hFvkYNcDk",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "modern_A7iq",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_A7iq.mp4",
+								"originalName": "modern",
+								"size": 1398635,
+								"lastModified": 1571038151662,
+								"lastModifiedDate": "2019-10-14T07:29:11.662Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_A7iq.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.139501,
+										"duration": 30.139501,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,650\nIch bin ein cooler Typ.\n\n2\n00:00:04,650 --> 00:00:06,300\nDas ist mein Ding.\n\n3\n00:00:06,300 --> 00:00:07,850\nIch bin hier um 5 Uhr.\n\n4\n00:00:07,850 --> 00:00:09,400\nich surfe im Web ich\n\n5\n00:00:09,400 --> 00:00:11,400\nText LOL. Lachen Sie laut\n\n6\n00:00:11,400 --> 00:00:13,100\nOMG. Oh mein Gott\n\n7\n00:00:13,100 --> 00:00:14,700\nWTF, warum das Gesicht?\n\n8\n00:00:14,700 --> 00:00:16,750\nWissen Sie, ich kenne alle\n\n9\n00:00:16,750 --> 00:00:18,800\nTänze High School Musical\n\n10\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n11\n00:00:19,900 --> 00:00:20,800\nin This\n\n12\n00:00:20,800 --> 00:00:23,800\nTogether. Ja, wir sind\n\n13\n00:00:23,800 --> 00:00:24,700\nwir alle\n\n14\n00:00:24,700 --> 00:00:27,000\nStars und du weißt\n\n15\n00:00:27,000 --> 00:00:27,700\nes\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4650,
+											"text": "Ich bin ein cooler Typ."
+										},
+										{
+											"start": 4650,
+											"end": 6300,
+											"text": "Das ist mein Ding."
+										},
+										{
+											"start": 6300,
+											"end": 7850,
+											"text": "Ich bin hier um 5 Uhr."
+										},
+										{
+											"start": 7850,
+											"end": 9400,
+											"text": "ich surfe im Web ich"
+										},
+										{
+											"start": 9400,
+											"end": 11400,
+											"text": "Text LOL. Lachen Sie laut"
+										},
+										{
+											"start": 11400,
+											"end": 13100,
+											"text": "OMG. Oh mein Gott"
+										},
+										{
+											"start": 13100,
+											"end": 14700,
+											"text": "WTF, warum das Gesicht?"
+										},
+										{
+											"start": 14700,
+											"end": 16750,
+											"text": "Wissen Sie, ich kenne alle"
+										},
+										{
+											"start": 16750,
+											"end": 18800,
+											"text": "Tänze High School Musical"
+										},
+										{
+											"start": 18800,
+											"end": 19900,
+											"text": "We're All"
+										},
+										{
+											"start": 19900,
+											"end": 20800,
+											"text": "in This"
+										},
+										{
+											"start": 20800,
+											"end": 23800,
+											"text": "Together. Ja, wir sind"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "wir alle"
+										},
+										{
+											"start": 24700,
+											"end": 27000,
+											"text": "Stars und du weißt"
+										},
+										{
+											"start": 27000,
+											"end": 27700,
+											"text": "es"
+										}
+									],
+									"translatedString": "Ich bin ein cooler Typ. Das ist mein Ding. Ich bin hier um 5 Uhr. ich surfe im Web ich Text LOL. Lachen Sie laut OMG. Oh mein Gott WTF, warum das Gesicht? Wissen Sie, ich kenne alle Tänze High School Musical We're All in This Together. Ja, wir sind wir alle Stars und du weißt es",
+									"alignment": "0:2-0:2 0:2-4:6 4:4-8:10 6:9-12:17 11:14-19:22 16:21-24:26 16:21-28:30 30:31-32:35 33:38-37:41 40:42-43:45 40:42-47:49 44:47-51:54 49:50-56:57 52:53-61:64 52:53-59:59 55:55-66:68 57:60-70:74 62:64-76:77 66:68-79:81 70:70-83:85 72:75-87:90 77:80-92:95 82:86-97:102 82:86-104:106 92:95-108:111 97:100-113:116 102:103-118:119 105:106-121:124 108:110-126:129 112:114-131:134 116:118-136:140 120:122-142:144 124:128-146:153 130:132-155:160 134:138-162:165 140:140-167:169 142:145-171:175 147:149-177:180 155:160-182:186 162:165-188:191 167:172-193:198 174:180-200:206 182:186-208:212 188:190-214:216 192:193-218:219 195:198-221:224 200:208-226:234 210:213-236:238 215:216-240:242 218:220-244:247 222:226-249:251 228:230-253:256 232:236-258:262 238:240-264:266 242:244-268:269 246:249-271:275 251:252-277:278",
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my thing.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here at 5. i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.\n\n5\n00:00:10,600 --> 00:00:11,400\nLaugh out loud\n\n6\n00:00:11,400 --> 00:00:13,100\nOMG. Oh my God\n\n7\n00:00:13,100 --> 00:00:14,700\nWTF why the face?\n\n8\n00:00:14,700 --> 00:00:18,800\nYou know, I know all the dances High School Musical\n\n9\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n10\n00:00:19,900 --> 00:00:20,800\nin This\n\n11\n00:00:20,800 --> 00:00:21,600\nTogether.\n\n12\n00:00:21,600 --> 00:00:23,800\nYes, we are\n\n13\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n14\n00:00:24,700 --> 00:00:25,300\nstars\n\n15\n00:00:25,300 --> 00:00:25,900\nand\n\n16\n00:00:25,900 --> 00:00:27,000\nyou know\n\n17\n00:00:27,000 --> 00:00:27,700\nit\n",
+									"font": "Noto Sans"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fmodern_A7iq.mp4"
+								],
+								"transformedPublicIds": [
+									"modern_A7iq"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "Modernen"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [
+							{
+								"public_id": "nsw_vKPd",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_vKPd.mp3",
+								"originalName": "nsw",
+								"size": 480373,
+								"lastModified": 1571166385146,
+								"lastModifiedDate": "2019-10-15T19:06:25.146Z",
+								"type": "audio/mp3",
+								"format": "mp3",
+								"duration": 30.014688,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_vKPd.mp3",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw_vKPd.mp3"
+								],
+								"transformedPublicIds": [
+									"nsw_vKPd"
+								],
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw"
+								}
+							},
+							{
+								"public_id": "enI_EPmY",
+								"captions": {
+									"captionString": "Why should one Invest?\nBefore we address the above question, let us understand what would happen if one chooses not to invest. Let us assume you earn Rs.50,000/- per month and you spend Rs.30,000/-towards your cost of living which includes housing, food, transport, shopping, medical, etc. The balance of Rs.20,000/- is your monthly surplus. For the sake of simplicity, let us just ignore the effect of personal income tax in this discussion.\n\nTo drive the point across, let us make a few simple assumptions.\n\nThe employer is kind enough to give you a 10% salary hike every year\nThe cost of living is likely to go up by 8% year on year\nYou are 30 years old and plan to retire at 50. This leaves you with 20 more years to earn\nYou don’t intend to work after you retire\nYour expenses are fixed and don’t foresee any other expense\n The balance cash of Rs.20,000/- per month is retained in the form of hard cash\nGoing by these assumptions, here is how the cash balance will look like in 20 years.\nIf one were to analyze these numbers, you would soon realize this is a scary situation to be in. Few things are quite startling from the above calculations:\n\nAfter 20 years of hard work you have accumulated Rs.1.7Crs.\nSince your expenses are fixed, your lifestyle has not changed over the years, you probably even suppressed your lifelong aspirations – better home, a better car, vacations, etc\nAfter you retire, assuming the expenses will continue to grow at 8%, Rs.1.7Crs is good enough to sail you through roughly about 8 years of post-retirement life. 8th year onwards you will be in a very tight spot with literally no savings left to back you up.\nWhat would you do after you run out of all the money in 8 years’ time? How do you fund your life? Is there a way to ensure that you collect a larger sum at the end of 20 years?\n\nLet’s consider another scenario where instead of keeping the cash idle, you choose to invest the cash in an investment option that grows at let’s say 12% per annum. For example – in the first year you retained Rs.240,000/- which when invested at 12% per annum for 20 years yields Rs.2,067,063/- at the end of 20th year.\nWith the decision to invest the surplus cash, your cash balance has increased significantly. The cash balance has grown to Rs.4.26Crs from Rs.1.7Crs. This is a staggering 2.4x times the regular amount. This translates to you being in a much better situation to deal with your post retirement life.\nNow, going back to the initial question of why invest? There are a few compelling reasons for one to invest.\n\nFight Inflation – By investing one can deal better with the inevitable – growing cost of living – generally referred to as Inflation\nCreate Wealth – By investing one can aim to have a better corpus by the end of the defined time period. In the above example, the time period was up to retirement but it can be anything – children’s education, marriage, house purchase, retirement holidays, etc\nTo meet life’s financial aspiration\nWhere to invest?\nHaving figured out the reasons to invest, the next obvious question would be – Where would one invest, and what are the returns one could expect by investing.\n\nWhen it comes to investing one has to choose an asset class that suits the individual’s risk and return temperament.\n\nAn asset class is a category of investment with particular risk and return characteristics. The following are some of the popular asset classes.\n\nFixed income instruments\nEquity\nReal estate\nCommodities (precious metals)\nFixed Income Instruments\nThese are investable instruments with very limited risk to the principle and the return is paid as an interest to the investor based on the particular fixed-income instrument. The interest paid, could be quarterly, semi-annual or annual intervals. At the end of the term of deposit, (also known as maturity period) the capital is returned to the investor.\n\nTypical fixed income investment includes:\n\nFixed deposits offered by banks\nBonds issued by the Government of India\nBonds issued by Government related agencies such as HUDCO, NHAI, etc\nBonds issued by corporate’s\nAs of June 2014, the typical return from a fixed income instrument varies between 8% and 11%.\nEquity\nInvestment in Equities involves buying shares of publicly listed companies. The shares are traded both on the Bombay Stock Exchange (BSE), and the National Stock Exchange (NSE).\n\nWhen an investor invests in equity, unlike a fixed income instrument there is no capital guarantee. However, as a trade-off, the returns from equity investment can be extremely attractive. Indian Equities have generated returns close to 14% – 15% CAGR (compound annual growth rate) over the past 15 years.\n\nInvesting in some of the best and well run Indian companies has yielded over 20% CAGR in the long-term. Identifying such investment opportunities requires skill, hard work, and patience.\n\nTaxation on Equity investments held for more than 365 days is taxed at 10%, if the gains are more than Rs 1 lakh starting from 1st April 2018(previously such investments were tax-free). This is comparatively a lower rate of tax than the other asset classes\nReal Estate\nReal Estate Investment involves transacting (buying and selling) commercial and non-commercial land. Typical examples would include transacting in sites, apartments and commercial buildings. There are two sources of income from real estate investments namely – Rental income, and Capital appreciation of the investment amount.\n\nThe transaction procedure can be quite complex involving legal verification of documents. The cash outlay in real estate investment is usually quite large. There is no official metric to measure the returns generated by real estate, hence it would be hard to comment on this.",
+									"parsed": [
+										{}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"transformedURLs": [],
+								"transformedPublicIds": [
+									"enI_EPmY"
+								],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
