@@ -180,18 +180,7 @@
 									}
 								],
 								"videoOverlays": [],
-								"audioOverlays": [
-									{
-										"public_id": "Original audio",
-										"isFixed": true,
-										"isAttached": true,
-										"start_offset": 0,
-										"end_offset": 55.008073,
-										"duration": 55.008073,
-										"volume": 1,
-										"tempo": 1
-									}
-								],
+								"audioOverlays": [],
 								"captions": {
 									"captionString": "1\n00:00:00,000 --> 00:00:02,000\nBushfire Facts.\n\n2\n00:00:02,000 --> 00:00:04,400\nBurning embers can travel many\n",
 									"parsed": [
