@@ -193,7 +193,7 @@
 									}
 								],
 								"captions": {
-									"captionString": "1\n00:00:00,000 --> 00:00:02,000\nBushfire Facts.\n\n2\n00:00:02,000 --> 00:00:04,400\nBurning embers can travel many\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,000\nBushfire Facts.\n\n2\n00:00:02,000 --> 00:00:04,400\nBurning embers can travel many\n\n3\n00:00:04,400 --> 00:00:05,700\nkilometres ahead of a fire.\n\n4\n00:00:05,700 --> 00:00:09,600\nSo while an actual bushfire may seem far away,\n\n5\n00:00:09,600 --> 00:00:12,900\nembers can still cause spot fires to start around your home.\n\n6\n00:00:12,900 --> 00:00:15,300\nParticularly if you provide it with the fuel.\n\n7\n00:00:15,300 --> 00:00:18,600\nHere are some easy things you can do today to reduce your risk.\n\n8\n00:00:18,600 --> 00:00:22,500\nFirst, if you have leaves lying around break them up\n\n9\n00:00:22,500 --> 00:00:25,400\nand dispose of them where they are less likely to catch fire.\n\n10\n00:00:25,400 --> 00:00:29,200\nSecond, if you use mulch or store firewood\n\n11\n00:00:29,200 --> 00:00:31,200\nmove it well away from your house.\n\n12\n00:00:31,200 --> 00:00:34,000\nThird, if you have any gaps around your home\n\n13\n00:00:34,000 --> 00:00:37,400\nsuch as broken roof tiles, or underneath the veranda,\n\n14\n00:00:37,400 --> 00:00:38,500\npatch them up.\n\n15\n00:00:38,500 --> 00:00:41,900\nThey're the perfect place for embers to get in and burn down your home.\n\n16\n00:00:43,900 --> 00:00:46,400\nGetting ready for a bushfire is easier than you think!\n\n17\n00:00:49,400 --> 00:00:51,100\nFor more helpful tips visit\n\n18\n00:00:51,100 --> 00:00:53,200\nmyfireplan.com.au today.\n",
 									"parsed": [
 										{
 											"start": 0,
@@ -204,6 +204,86 @@
 											"start": 2000,
 											"end": 4400,
 											"text": "Burning embers can travel many"
+										},
+										{
+											"start": 4400,
+											"end": 5700,
+											"text": "kilometres ahead of a fire."
+										},
+										{
+											"start": 5700,
+											"end": 9600,
+											"text": "So while an actual bushfire may seem far away,"
+										},
+										{
+											"start": 9600,
+											"end": 12900,
+											"text": "embers can still cause spot fires to start around your home."
+										},
+										{
+											"start": 12900,
+											"end": 15300,
+											"text": "Particularly if you provide it with the fuel."
+										},
+										{
+											"start": 15300,
+											"end": 18600,
+											"text": "Here are some easy things you can do today to reduce your risk."
+										},
+										{
+											"start": 18600,
+											"end": 22500,
+											"text": "First, if you have leaves lying around break them up"
+										},
+										{
+											"start": 22500,
+											"end": 25400,
+											"text": "and dispose of them where they are less likely to catch fire."
+										},
+										{
+											"start": 25400,
+											"end": 29200,
+											"text": "Second, if you use mulch or store firewood"
+										},
+										{
+											"start": 29200,
+											"end": 31200,
+											"text": "move it well away from your house."
+										},
+										{
+											"start": 31200,
+											"end": 34000,
+											"text": "Third, if you have any gaps around your home"
+										},
+										{
+											"start": 34000,
+											"end": 37400,
+											"text": "such as broken roof tiles, or underneath the veranda,"
+										},
+										{
+											"start": 37400,
+											"end": 38500,
+											"text": "patch them up."
+										},
+										{
+											"start": 38500,
+											"end": 41900,
+											"text": "They're the perfect place for embers to get in and burn down your home."
+										},
+										{
+											"start": 43900,
+											"end": 46400,
+											"text": "Getting ready for a bushfire is easier than you think!"
+										},
+										{
+											"start": 49400,
+											"end": 51100,
+											"text": "For more helpful tips visit"
+										},
+										{
+											"start": 51100,
+											"end": 53200,
+											"text": "myfireplan.com.au today."
 										}
 									],
 									"isAttached": false
