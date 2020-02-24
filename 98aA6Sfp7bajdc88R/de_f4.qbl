@@ -1,0 +1,417 @@
+{
+	"fileName": "de_f4.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "978ad818-596f-3c3c-325e-64af1e550fcb",
+			"fileItemDate": "2020-02-24T05:04:51.665Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "NRmEqxf9hFvkYNcDk",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "bush_2e2J",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2Fbush_2e2J_timg.mp4?generation=1582512629308226&alt=media",
+								"originalName": "bush",
+								"size": "23957076",
+								"lastModified": 1582511947790,
+								"lastModifiedDate": "2020-02-24T02:50:29.307Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 55.008073,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fbush_2e2J.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 55.008073,
+										"duration": 55.008073,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:02,000\nBushfire Fakten.\n\n2\n00:00:02,000 --> 00:00:04,400\nBrennende Glut kann viele\n\n3\n00:00:04,400 --> 00:00:05,700\nKilometer vor einem Feuer fahren.\n\n4\n00:00:05,700 --> 00:00:07,650\nWährend also ein tatsächliches Buschfeuer\n\n5\n00:00:07,650 --> 00:00:09,600\nweit weg erscheinen\n\n6\n00:00:09,600 --> 00:00:11,250\nmag, können Glutnester immer noch dazu führen, dass\n\n7\n00:00:11,250 --> 00:00:12,900\nFleckenbrände um Ihr Haus herum beginnen.\n\n8\n00:00:12,900 --> 00:00:14,100\nVor allem, wenn Sie es mit\n\n9\n00:00:14,100 --> 00:00:15,300\ndem Kraftstoff zur Verfügung\n\n10\n00:00:15,300 --> 00:00:16,950\nstellen. Hier sind einige einfache Dinge, die Sie\n\n11\n00:00:16,950 --> 00:00:17,775\nheute tun können, um\n\n12\n00:00:17,775 --> 00:00:18,600\nIhr Risiko zu\n\n13\n00:00:18,600 --> 00:00:20,550\nreduzieren. Erstens, wenn Sie Blätter herumliegen\n\n14\n00:00:20,550 --> 00:00:22,500\nliegen, brechen Sie sie auf\n\n15\n00:00:22,500 --> 00:00:23,950\nund entsorgen sie dort, wo sie\n\n16\n00:00:23,950 --> 00:00:25,400\nweniger wahrscheinlich Feuer fangen.\n\n17\n00:00:25,400 --> 00:00:27,300\nZweitens, wenn Sie Mulch verwenden\n\n18\n00:00:27,300 --> 00:00:29,200\noder Brennholz lagern,\n\n19\n00:00:29,200 --> 00:00:30,200\nbewegen Sie es weit weg\n\n20\n00:00:30,200 --> 00:00:31,200\nvon Ihrem Haus.\n\n21\n00:00:31,200 --> 00:00:32,600\nDrittens, wenn Sie irgendwelche Lücken\n\n22\n00:00:32,600 --> 00:00:34,000\num Ihr Haus\n\n23\n00:00:34,000 --> 00:00:35,700\nhaben, wie kaputte Dachziegel, oder\n\n24\n00:00:35,700 --> 00:00:37,400\nunter der Veranda,\n\n25\n00:00:37,400 --> 00:00:38,500\npatchen Sie sie auf.\n\n26\n00:00:38,500 --> 00:00:40,200\nSie sind der perfekte Ort für Glutnester,\n\n27\n00:00:40,200 --> 00:00:41,900\num in Ihr Zuhause einzusteigen\n\n28\n00:00:41,900 --> 00:00:44,150\nund zu verbrennen. Sich auf ein Buschfeuer\n\n29\n00:00:44,150 --> 00:00:46,400\nvorzubereiten, ist einfacher, als sie denken!\n\n30\n00:00:46,400 --> 00:00:51,100\nWeitere hilfreiche Tipps finden Sie\n\n31\n00:00:51,100 --> 00:00:53,200\nnoch heute myfireplan.com.au.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 2000,
+											"text": "Bushfire Fakten."
+										},
+										{
+											"start": 2000,
+											"end": 4400,
+											"text": "Brennende Glut kann viele"
+										},
+										{
+											"start": 4400,
+											"end": 5700,
+											"text": "Kilometer vor einem Feuer fahren."
+										},
+										{
+											"start": 5700,
+											"end": 7650,
+											"text": "Während also ein tatsächliches Buschfeuer"
+										},
+										{
+											"start": 7650,
+											"end": 9600,
+											"text": "weit weg erscheinen"
+										},
+										{
+											"start": 9600,
+											"end": 11250,
+											"text": "mag, können Glutnester immer noch dazu führen, dass"
+										},
+										{
+											"start": 11250,
+											"end": 12900,
+											"text": "Fleckenbrände um Ihr Haus herum beginnen."
+										},
+										{
+											"start": 12900,
+											"end": 14100,
+											"text": "Vor allem, wenn Sie es mit"
+										},
+										{
+											"start": 14100,
+											"end": 15300,
+											"text": "dem Kraftstoff zur Verfügung"
+										},
+										{
+											"start": 15300,
+											"end": 16950,
+											"text": "stellen. Hier sind einige einfache Dinge, die Sie"
+										},
+										{
+											"start": 16950,
+											"end": 17775,
+											"text": "heute tun können, um"
+										},
+										{
+											"start": 17775,
+											"end": 18600,
+											"text": "Ihr Risiko zu"
+										},
+										{
+											"start": 18600,
+											"end": 20550,
+											"text": "reduzieren. Erstens, wenn Sie Blätter herumliegen"
+										},
+										{
+											"start": 20550,
+											"end": 22500,
+											"text": "liegen, brechen Sie sie auf"
+										},
+										{
+											"start": 22500,
+											"end": 23950,
+											"text": "und entsorgen sie dort, wo sie"
+										},
+										{
+											"start": 23950,
+											"end": 25400,
+											"text": "weniger wahrscheinlich Feuer fangen."
+										},
+										{
+											"start": 25400,
+											"end": 27300,
+											"text": "Zweitens, wenn Sie Mulch verwenden"
+										},
+										{
+											"start": 27300,
+											"end": 29200,
+											"text": "oder Brennholz lagern,"
+										},
+										{
+											"start": 29200,
+											"end": 30200,
+											"text": "bewegen Sie es weit weg"
+										},
+										{
+											"start": 30200,
+											"end": 31200,
+											"text": "von Ihrem Haus."
+										},
+										{
+											"start": 31200,
+											"end": 32600,
+											"text": "Drittens, wenn Sie irgendwelche Lücken"
+										},
+										{
+											"start": 32600,
+											"end": 34000,
+											"text": "um Ihr Haus"
+										},
+										{
+											"start": 34000,
+											"end": 35700,
+											"text": "haben, wie kaputte Dachziegel, oder"
+										},
+										{
+											"start": 35700,
+											"end": 37400,
+											"text": "unter der Veranda,"
+										},
+										{
+											"start": 37400,
+											"end": 38500,
+											"text": "patchen Sie sie auf."
+										},
+										{
+											"start": 38500,
+											"end": 40200,
+											"text": "Sie sind der perfekte Ort für Glutnester,"
+										},
+										{
+											"start": 40200,
+											"end": 41900,
+											"text": "um in Ihr Zuhause einzusteigen"
+										},
+										{
+											"start": 41900,
+											"end": 44150,
+											"text": "und zu verbrennen. Sich auf ein Buschfeuer"
+										},
+										{
+											"start": 44150,
+											"end": 46400,
+											"text": "vorzubereiten, ist einfacher, als sie denken!"
+										},
+										{
+											"start": 46400,
+											"end": 51100,
+											"text": "Weitere hilfreiche Tipps finden Sie"
+										},
+										{
+											"start": 51100,
+											"end": 53200,
+											"text": "noch heute myfireplan.com.au."
+										}
+									],
+									"isAttached": false,
+									"translatedString": "Bushfire Fakten. Brennende Glut kann viele Kilometer vor einem Feuer fahren. Während also ein tatsächliches Buschfeuer weit weg erscheinen mag, können Glutnester immer noch dazu führen, dass Fleckenbrände um Ihr Haus herum beginnen. Vor allem, wenn Sie es mit dem Kraftstoff zur Verfügung stellen. Hier sind einige einfache Dinge, die Sie heute tun können, um Ihr Risiko zu reduzieren. Erstens, wenn Sie Blätter herumliegen liegen, brechen Sie sie auf und entsorgen sie dort, wo sie weniger wahrscheinlich Feuer fangen. Zweitens, wenn Sie Mulch verwenden oder Brennholz lagern, bewegen Sie es weit weg von Ihrem Haus. Drittens, wenn Sie irgendwelche Lücken um Ihr Haus haben, wie kaputte Dachziegel, oder unter der Veranda, patchen Sie sie auf. Sie sind der perfekte Ort für Glutnester, um in Ihr Zuhause einzusteigen und zu verbrennen. Sich auf ein Buschfeuer vorzubereiten, ist einfacher, als sie denken! Weitere hilfreiche Tipps finden Sie noch heute myfireplan.com.au.",
+									"alignment": "0:7-0:7 9:14-9:15 16:22-17:25 24:29-27:30 31:33-32:35 42:45-37:41 47:56-43:51 58:62-53:55 67:67-57:61 69:73-69:75 69:73-63:67 75:76-77:83 75:76-85:88 84:85-90:92 87:92-94:106 94:101-108:117 107:110-128:137 112:114-119:122 116:120-139:142 116:120-124:126 122:127-151:160 129:131-144:149 133:137-168:171 133:137-162:166 139:143-178:184 145:148-173:176 150:154-191:203 165:170-205:206 165:170-217:221 172:175-208:210 177:181-212:215 177:181-223:231 183:194-233:235 183:194-237:242 196:197-244:247 199:201-249:251 203:209-279:287 203:209-275:277 211:212-253:254 214:217-256:258 219:221-260:262 223:227-289:296 223:227-264:273 229:232-298:301 234:236-303:306 238:241-308:313 243:246-315:322 248:253-324:329 255:257-335:337 255:257-331:333 259:261-349:355 263:264-345:347 266:270-339:343 272:273-357:358 272:273-371:372 282:285-360:362 287:291-374:384 287:291-364:369 293:298-386:393 300:301-395:398 303:305-400:402 307:310-424:430 312:317-404:410 319:323-412:422 332:336-432:438 338:341-444:446 338:341-440:442 343:344-448:450 346:348-452:454 350:356-456:464 361:364-466:468 366:370-476:477 366:370-470:474 372:375-479:481 381:384-483:489 386:391-491:504 402:406-512:518 402:406-506:510 408:414-520:528 416:417-530:533 419:421-535:537 423:425-545:553 427:431-539:543 433:434-555:558 436:440-570:576 442:449-560:568 451:454-578:584 456:457-590:591 456:457-586:588 459:462-593:596 464:467-598:600 469:472-602:604 474:477-606:610 479:484-612:616 486:491-618:626 493:494-628:631 496:498-633:635 509:512-650:655 509:512-637:648 514:519-657:658 521:524-660:662 526:529-664:667 531:534-676:678 531:534-669:674 539:544-680:686 551:556-688:698 558:559-700:703 561:570-705:709 572:574-711:713 576:583-715:722 585:589-724:730 591:594-736:738 591:594-732:734 596:598-740:743 600:606-745:747 600:606-749:752 608:610-754:756 612:618-758:765 620:624-767:769 626:628-771:773 637:638-787:788 637:638-775:785 640:642-805:816 644:645-790:791 647:649-818:820 656:659-822:823 661:664-793:795 666:670-825:835 666:670-797:803 672:678-837:840 680:684-861:874 680:684-842:844 690:690-846:848 692:699-850:859 701:702-876:878 704:709-880:889 711:714-891:893 716:718-895:897 720:725-899:905 727:729-907:913 736:742-915:924 744:747-926:930 749:753-932:937 749:753-939:941 773:778-954:971 773:778-948:952",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:02,000\nBushfire Facts.\n\n2\n00:00:02,000 --> 00:00:04,400\nBurning embers can travel many\n\n3\n00:00:04,400 --> 00:00:05,700\nkilometres ahead of a fire.\n\n4\n00:00:05,700 --> 00:00:09,600\nSo while an actual bushfire may seem far away,\n\n5\n00:00:09,600 --> 00:00:12,900\nembers can still cause spot fires to start around your home.\n\n6\n00:00:12,900 --> 00:00:15,300\nParticularly if you provide it with the fuel.\n\n7\n00:00:15,300 --> 00:00:18,600\nHere are some easy things you can do today to reduce your risk.\n\n8\n00:00:18,600 --> 00:00:22,500\nFirst, if you have leaves lying around break them up\n\n9\n00:00:22,500 --> 00:00:25,400\nand dispose of them where they are less likely to catch fire.\n\n10\n00:00:25,400 --> 00:00:29,200\nSecond, if you use mulch or store firewood\n\n11\n00:00:29,200 --> 00:00:31,200\nmove it well away from your house.\n\n12\n00:00:31,200 --> 00:00:34,000\nThird, if you have any gaps around your home\n\n13\n00:00:34,000 --> 00:00:37,400\nsuch as broken roof tiles, or underneath the veranda,\n\n14\n00:00:37,400 --> 00:00:38,500\npatch them up.\n\n15\n00:00:38,500 --> 00:00:41,900\nThey're the perfect place for embers to get in and burn down your home.\n\n16\n00:00:43,900 --> 00:00:46,400\nGetting ready for a bushfire is easier than you think!\n\n17\n00:00:49,400 --> 00:00:51,100\nFor more helpful tips visit\n\n18\n00:00:51,100 --> 00:00:53,200\nmyfireplan.com.au today.\n",
+									"font": "Noto Sans"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fbush_2e2J.mp4"
+								],
+								"transformedPublicIds": [
+									"bush_2e2J"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "Bush"
+								},
+								"underlay": {
+									"show": false,
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true,
+									"x": 0,
+									"y": 0,
+									"useXY": false
+								},
+								"contentType": "video/mp4"
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
