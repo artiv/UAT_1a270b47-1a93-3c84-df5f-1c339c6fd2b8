@@ -367,7 +367,40 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "nsw____________-_____jBw5",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw____________-_____jBw5.mp3",
+								"originalName": "nsw!@",
+								"size": 480373,
+								"lastModified": 1571166385146,
+								"lastModifiedDate": "2019-10-15T19:06:25.146Z",
+								"type": "audio/mp3",
+								"format": "mp3",
+								"duration": 30.014688,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw____________-_____jBw5.mp3",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2Fnsw____________-_____jBw5.mp3"
+								],
+								"transformedPublicIds": [
+									"nsw____________-_____jBw5"
+								],
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw____________-____"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
