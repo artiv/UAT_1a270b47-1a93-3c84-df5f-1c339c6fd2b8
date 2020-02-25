@@ -51,7 +51,57 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "并处置他_kYJp_CkJu",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2F%E5%B9%B6%E5%A4%84%E7%BD%AE%E4%BB%96_kYJp_CkJu.mp4?generation=1582662769602449&alt=media",
+								"originalName": "并处置他",
+								"size": "977008",
+								"lastModified": 1571815304714,
+								"lastModifiedDate": "2020-02-25T20:32:49.602Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/并处置他_kYJp_CkJu.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.279,
+										"duration": 30.279,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/并处置他_kYJp_CkJu.mp4"
+								],
+								"transformedPublicIds": [
+									"并处置他_kYJp_CkJu"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "并处置他_kyjp"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
