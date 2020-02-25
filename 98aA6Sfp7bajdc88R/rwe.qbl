@@ -65,7 +65,232 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/并处置他_kYJp_CkJu.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm a cool guy. That's that's my thing.",
+										"font": "Roboto",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "251mq",
+													"text": "I'm a cool guy. That's that's my thing.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm here at 5. i surf the web I",
+										"font": "Roboto",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "83gu8",
+													"text": "I'm here at 5. i surf the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "text",
+										"font": "Roboto",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "278jp",
+													"text": "text",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "LOL.",
+										"font": "Roboto",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "953ma",
+													"text": "LOL.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10,
+										"end_offset": 10.6,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
@@ -79,7 +304,32 @@
 										"tempo": 1
 									}
 								],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my thing.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here at 5. i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 6300,
+											"text": "I'm a cool guy. That's that's my thing."
+										},
+										{
+											"start": 7400,
+											"end": 9400,
+											"text": "I'm here at 5. i surf the web I"
+										},
+										{
+											"start": 9400,
+											"end": 10000,
+											"text": "text"
+										},
+										{
+											"start": 10000,
+											"end": 10600,
+											"text": "LOL."
+										}
+									],
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/并处置他_kYJp_CkJu.mp4"
 								],
@@ -99,6 +349,23 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "并处置他_kyjp"
+								},
+								"underlay": {
+									"show": "background",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true,
+									"x": 0,
+									"y": 0,
+									"useXY": false
 								}
 							}
 						],
