@@ -79,7 +79,16 @@
 										"tempo": 1
 									}
 								],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:06,300\nI'm a cool guy. That is my thing.",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 6300,
+											"text": "I'm a cool guy. That is my thing."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_2EiX.mp4"
 								],
