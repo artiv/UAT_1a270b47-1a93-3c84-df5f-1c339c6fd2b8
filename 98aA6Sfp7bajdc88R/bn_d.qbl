@@ -63,7 +63,134 @@
 								"width": 1280,
 								"height": 720,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_Xafe.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "আমি একজন শীতল লোক ।",
+										"font": "Baloo Da 2",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a2l78",
+													"text": "আমি একজন শীতল লোক ।",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 0,
+										"end_offset": 3.15,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "f0jhk",
+													"text": "I'm a cool guy. That is my thing.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "সেটাই আমার ব্যাপার ।",
+										"font": "Baloo Da 2",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "46his",
+													"text": "সেটাই আমার ব্যাপার ।",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3.15,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
@@ -122,7 +249,21 @@
 									"seoSuffix": "সামপ্লিভিডিও"
 								},
 								"underlay": {
-									"show": false
+									"show": false,
+									"gravity": "north",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true,
+									"x": 0,
+									"y": 0,
+									"useXY": false
 								},
 								"contentType": "video/mp4"
 							}
