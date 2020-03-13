@@ -1,0 +1,253 @@
+{
+	"fileName": "bn_d.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "53f83824-d751-2b6b-97ce-acb319efc772",
+			"fileItemDate": "2020-03-13T10:05:39.532Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "6SjWDECMDZtHQoSGn",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "sampleVideo_2EiX",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_2EiX.mp4",
+								"originalName": "sampleVideo",
+								"size": 1055736,
+								"lastModified": 1571764865041,
+								"lastModifiedDate": "2019-10-22T17:21:05.041Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 5.312,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_2EiX.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 5.312,
+										"duration": 5.312,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:03,150\nআমি একজন শীতল লোক ।\n\n2\n00:00:03,150 --> 00:00:06,300\nসেটাই আমার ব্যাপার ।\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 3150,
+											"text": "আমি একজন শীতল লোক ।"
+										},
+										{
+											"start": 3150,
+											"end": 6300,
+											"text": "সেটাই আমার ব্যাপার ।"
+										}
+									],
+									"translatedString": "আমি একজন শীতল লোক । সেটাই আমার ব্যাপার ।",
+									"alignment": "0:0-0:2 4:4-4:7 6:9-9:12 11:13-14:16 14:14-18:18 16:19-20:24 24:25-26:29 27:31-31:37 32:32-39:39",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:06,300\nI'm a cool guy. That is my thing.\n",
+									"font": "BalooDa2"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_2EiX.mp4"
+								],
+								"transformedPublicIds": [
+									"sampleVideo_2EiX"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "সামপ্লিভিডিও"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
