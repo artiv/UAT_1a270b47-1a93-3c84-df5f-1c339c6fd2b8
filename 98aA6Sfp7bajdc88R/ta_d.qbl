@@ -63,7 +63,134 @@
 								"width": 1280,
 								"height": 720,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_2EiX.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "நான் ஒரு குளிர்ந்த பையன்.",
+										"font": "Baloo Thambi 2",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7eeqt",
+													"text": "நான் ஒரு குளிர்ந்த பையன்.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 0,
+										"end_offset": 3.15,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "bev07",
+													"text": "I'm a cool guy. That is my thing.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "அதுதான் என் விஷயம்.",
+										"font": "Baloo Thambi 2",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "e3b36",
+													"text": "அதுதான் என் விஷயம்.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3.15,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
@@ -94,7 +221,8 @@
 									"translatedString": "நான் ஒரு குளிர்ந்த பையன். அதுதான் என் விஷயம்.",
 									"alignment": "0:0-0:3 4:4-5:7 6:9-9:17 11:13-19:23 14:14-24:24 16:19-26:32 24:25-34:36 27:31-38:43 32:32-44:44",
 									"originalCaptionString": "1\n00:00:00,000 --> 00:00:06,300\nI'm a cool guy. That is my thing.\n",
-									"font": "Baloo Thambi 2"
+									"font": "Baloo Thambi 2",
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_2EiX.mp4"
@@ -115,6 +243,23 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "ஸப்லோ-விமோ"
+								},
+								"underlay": {
+									"show": false,
+									"gravity": "north",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true,
+									"x": 0,
+									"y": 0,
+									"useXY": false
 								}
 							}
 						],
