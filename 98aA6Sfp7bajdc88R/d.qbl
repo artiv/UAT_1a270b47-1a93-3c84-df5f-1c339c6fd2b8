@@ -109,6 +109,55 @@
 									"caption": "",
 									"seoSuffix": "samplevideo"
 								}
+							},
+							{
+								"public_id": "sampleVideo_2EiX_7cHA",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_7cHA.mp4",
+								"originalName": "",
+								"size": 1055736,
+								"lastModified": 1584795673641,
+								"lastModifiedDate": "2020-03-21T13:01:13.641Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 5.312,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_7cHA.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 5.312,
+										"duration": 5.312,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_7cHA.mp4"
+								],
+								"transformedPublicIds": [
+									"sampleVideo_2EiX_7cHA"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo_2eix"
+								}
 							}
 						],
 						"fieldChildren": []
