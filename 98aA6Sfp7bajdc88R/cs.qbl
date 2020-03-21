@@ -100,6 +100,55 @@
 									"caption": "",
 									"seoSuffix": "samplevideo_2eix"
 								}
+							},
+							{
+								"public_id": "PM Modis address to the nation on Corona Virus_Ks3i_W7YR",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/PM Modis address to the nation on Corona Virus_Ks3i_W7YR.mp4",
+								"originalName": "",
+								"size": 90909592,
+								"lastModified": 1584796356515,
+								"lastModifiedDate": "2020-03-21T13:12:36.515Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 1738.548,
+								"width": 640,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/PM Modis address to the nation on Corona Virus_Ks3i_W7YR.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 1738.548,
+										"duration": 1738.548,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/PM Modis address to the nation on Corona Virus_Ks3i_W7YR.mp4"
+								],
+								"transformedPublicIds": [
+									"PM Modis address to the nation on Corona Virus_Ks3i_W7YR"
+								],
+								"embed": {
+									"width": 640,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "pm-modis-address-to-the-nation-on-corona-virus_ks3i"
+								}
 							}
 						],
 						"fieldChildren": []
