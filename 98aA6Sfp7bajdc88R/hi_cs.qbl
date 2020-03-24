@@ -1,0 +1,357 @@
+{
+	"fileName": "hi_cs.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "cbda3972-a2db-a2d7-814e-76727607aa6b",
+			"fileItemDate": "2020-03-24T22:06:46.724Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Cvjw7r3KBznPjshdh",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "sampleVideo_2EiX_W7YR",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_W7YR.mp4",
+								"originalName": "",
+								"size": 1055736,
+								"lastModified": 1584796247271,
+								"lastModifiedDate": "2020-03-21T13:10:47.271Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 5.312,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_W7YR.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 5.312,
+										"duration": 5.312,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"captionString": "1\n00:00:01,000 --> 00:00:08,200\nCovid-19 की रोकथाम के लिए योग:\n\n2\n00:00:08,200 --> 00:00:12,150\nबच्चों के लिए प्रथाओं मेरे प्यारे भाइयों और\n\n3\n00:00:12,150 --> 00:00:16,100\nबहनों Covid-19 पर इस प्रस्तुति में\n\n4\n00:00:16,100 --> 00:00:17,350\nआपका स्वागत है ।\n\n5\n00:00:17,350 --> 00:00:18,600\nयोग का एक\n\n6\n00:00:18,600 --> 00:00:22,900\nएकीकृत मॉड्यूल। हमारे पास 3 मॉड्यूल\n\n7\n00:00:22,900 --> 00:00:24,150\nहैं। एक युवा के\n\n8\n00:00:24,150 --> 00:00:25,400\nलिए, दूसरा वयस्कों\n\n9\n00:00:25,400 --> 00:00:27,400\nके लिए और तीसरा बड़ों के\n\n10\n00:00:27,400 --> 00:00:30,400\nलिए । युवा के लिए\n\n11\n00:00:30,400 --> 00:00:33,400\nहमें यह देखना होगा\n\n12\n00:00:33,400 --> 00:00:34,950\nकि युवा लोगों को ये काम बहुत\n\n13\n00:00:34,950 --> 00:00:36,500\nआसानी से कर सकें ।\n",
+									"parsed": [
+										{
+											"start": 1000,
+											"end": 8200,
+											"text": "Covid-19 की रोकथाम के लिए योग:"
+										},
+										{
+											"start": 8200,
+											"end": 12150,
+											"text": "बच्चों के लिए प्रथाओं मेरे प्यारे भाइयों और"
+										},
+										{
+											"start": 12150,
+											"end": 16100,
+											"text": "बहनों Covid-19 पर इस प्रस्तुति में"
+										},
+										{
+											"start": 16100,
+											"end": 17350,
+											"text": "आपका स्वागत है ।"
+										},
+										{
+											"start": 17350,
+											"end": 18600,
+											"text": "योग का एक"
+										},
+										{
+											"start": 18600,
+											"end": 22900,
+											"text": "एकीकृत मॉड्यूल। हमारे पास 3 मॉड्यूल"
+										},
+										{
+											"start": 22900,
+											"end": 24150,
+											"text": "हैं। एक युवा के"
+										},
+										{
+											"start": 24150,
+											"end": 25400,
+											"text": "लिए, दूसरा वयस्कों"
+										},
+										{
+											"start": 25400,
+											"end": 27400,
+											"text": "के लिए और तीसरा बड़ों के"
+										},
+										{
+											"start": 27400,
+											"end": 30400,
+											"text": "लिए । युवा के लिए"
+										},
+										{
+											"start": 30400,
+											"end": 33400,
+											"text": "हमें यह देखना होगा"
+										},
+										{
+											"start": 33400,
+											"end": 34950,
+											"text": "कि युवा लोगों को ये काम बहुत"
+										},
+										{
+											"start": 34950,
+											"end": 36500,
+											"text": "आसानी से कर सकें ।"
+										}
+									],
+									"translatedString": " Covid-19 की रोकथाम के लिए योग: बच्चों के लिए प्रथाओं मेरे प्यारे भाइयों और बहनों Covid-19 पर इस प्रस्तुति में आपका स्वागत है । योग का एक एकीकृत मॉड्यूल। हमारे पास 3 मॉड्यूल हैं। एक युवा के लिए, दूसरा वयस्कों के लिए और तीसरा बड़ों के लिए । युवा के लिए हमें यह देखना होगा कि युवा लोगों को ये काम बहुत आसानी से कर सकें ।",
+									"alignment": "9:18-12:12 20:21-9:9 20:21-19:19 23:31-0:0 23:31-26:26 33:41-45:45 43:45-41:41 43:45-38:38 43:45-22:22 47:54-31:31 56:57-53:53 59:62-58:58 64:71-65:65 73:75-72:72 77:83-75:75 85:91-110:110 85:91-115:115 96:99-93:93 101:112-96:96 114:115-90:90 114:115-106:106 117:125-125:125 117:125-81:81 127:128-134:134 130:139-137:137 148:149-131:131 151:155-144:144 151:155-127:127 157:158-153:153 160:163-159:159 165:165-163:163 167:174-173:173 167:174-165:165 176:178-178:178 180:182-186:186 184:189-189:189 184:189-181:181 191:197-194:194 199:201-208:208 199:201-211:211 203:208-200:200 210:212-215:215 218:222-218:218 224:226-233:233 224:226-230:230 228:234-237:237 228:234-224:224 236:238-247:247 240:242-244:244 244:248-239:239 250:251-251:251 253:256-265:265 261:263-259:259 261:263-256:256 265:268-270:270 274:278-273:273 280:285-278:278 294:295-311:311 302:303-284:284 305:306-308:308 308:312-287:287 314:319-290:290 321:324-294:294 326:332-316:316 326:332-299:299",
+									"originalCaptionString": "1\n00:00:01,000 --> 00:00:08,200\nYoga For Prevention Of Covid-19: Practices For Children\n\n2\n00:00:08,200 --> 00:00:11,900\nMy dear brothers and sisters welcome to this\n\n3\n00:00:11,900 --> 00:00:16,100\npresentation on Covid-19.\n\n4\n00:00:16,100 --> 00:00:18,600\nAn integrated module of yoga.\n\n5\n00:00:18,600 --> 00:00:22,900\nWe have 3 modules.\n\n6\n00:00:22,900 --> 00:00:25,400\nOne for young, another for adults\n\n7\n00:00:25,400 --> 00:00:27,400\nand the third for elders.\n\n8\n00:00:28,400 --> 00:00:33,400\nFor the young we have to see that the\n\n9\n00:00:33,400 --> 00:00:36,500\nyoung people should be able to do these things very easily.\n",
+									"font": "Noto Sans Devanagari"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_W7YR.mp4"
+								],
+								"transformedPublicIds": [
+									"sampleVideo_2EiX_W7YR"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo_2eix"
+								}
+							},
+							{
+								"public_id": "PM Modis address to the nation on Corona Virus_Ks3i_W7YR",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/PM Modis address to the nation on Corona Virus_Ks3i_W7YR.mp4",
+								"originalName": "",
+								"size": 90909592,
+								"lastModified": 1584796356515,
+								"lastModifiedDate": "2020-03-21T13:12:36.515Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 1738.548,
+								"width": 640,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/PM Modis address to the nation on Corona Virus_Ks3i_W7YR.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 1738.548,
+										"duration": 1738.548,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/PM Modis address to the nation on Corona Virus_Ks3i_W7YR.mp4"
+								],
+								"transformedPublicIds": [
+									"PM Modis address to the nation on Corona Virus_Ks3i_W7YR"
+								],
+								"embed": {
+									"width": 640,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "प्रधानमंत्री-ने-कोरोना-virus_ks3i-पर-राष्ट्र-को-संबोधित-किया"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
