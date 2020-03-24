@@ -1,0 +1,318 @@
+{
+	"fileName": "hi_e_March-24th_10-34 pm.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "2de8a3af-3963-d7f9-e0d9-c99198b2d6b9",
+			"fileItemDate": "2020-03-24T17:04:53.380Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Cvjw7r3KBznPjshdh",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "sampleVideo_jCkC",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_jCkC.mp4",
+								"originalName": "sampleVideo",
+								"size": 1055736,
+								"lastModified": 1571764865041,
+								"lastModifiedDate": "2019-10-22T17:21:05.041Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 5.312,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_jCkC.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 5.312,
+										"duration": 5.312,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"captionString": "1\n00:00:01,000 --> 00:00:04,600\nCovid-19 की रोकथाम के\n\n2\n00:00:04,600 --> 00:00:08,200\nलिए योग: बच्चों\n\n3\n00:00:08,200 --> 00:00:12,150\nके लिए प्रथाओं मेरे प्यारे भाइयों और बहनों\n\n4\n00:00:12,150 --> 00:00:16,100\nCovid-19 पर इस प्रस्तुति में आपका\n\n5\n00:00:16,100 --> 00:00:17,350\nस्वागत है । योग\n\n6\n00:00:17,350 --> 00:00:18,600\nका एक एकीकृत\n\n7\n00:00:18,600 --> 00:00:22,900\nमॉड्यूल। हमारे पास 3 मॉड्यूल हैं।\n\n8\n00:00:22,900 --> 00:00:24,150\nएक युवा के लिए,\n\n9\n00:00:24,150 --> 00:00:25,400\nदूसरा वयस्कों के\n\n10\n00:00:25,400 --> 00:00:26,400\nलिए और तीसरा बड़ों\n\n11\n00:00:26,400 --> 00:00:27,400\nके लिए ।\n\n12\n00:00:27,400 --> 00:00:30,400\nयुवा के लिए हमें यह\n\n13\n00:00:30,400 --> 00:00:33,400\nदेखना होगा कि\n\n14\n00:00:33,400 --> 00:00:34,950\nयुवा लोगों को ये काम बहुत\n\n15\n00:00:34,950 --> 00:00:36,500\nआसानी से कर सकें ।\n",
+									"parsed": [
+										{
+											"start": 1000,
+											"end": 4600,
+											"text": "Covid-19 की रोकथाम के"
+										},
+										{
+											"start": 4600,
+											"end": 8200,
+											"text": "लिए योग: बच्चों"
+										},
+										{
+											"start": 8200,
+											"end": 12150,
+											"text": "के लिए प्रथाओं मेरे प्यारे भाइयों और बहनों"
+										},
+										{
+											"start": 12150,
+											"end": 16100,
+											"text": "Covid-19 पर इस प्रस्तुति में आपका"
+										},
+										{
+											"start": 16100,
+											"end": 17350,
+											"text": "स्वागत है । योग"
+										},
+										{
+											"start": 17350,
+											"end": 18600,
+											"text": "का एक एकीकृत"
+										},
+										{
+											"start": 18600,
+											"end": 22900,
+											"text": "मॉड्यूल। हमारे पास 3 मॉड्यूल हैं।"
+										},
+										{
+											"start": 22900,
+											"end": 24150,
+											"text": "एक युवा के लिए,"
+										},
+										{
+											"start": 24150,
+											"end": 25400,
+											"text": "दूसरा वयस्कों के"
+										},
+										{
+											"start": 25400,
+											"end": 26400,
+											"text": "लिए और तीसरा बड़ों"
+										},
+										{
+											"start": 26400,
+											"end": 27400,
+											"text": "के लिए ।"
+										},
+										{
+											"start": 27400,
+											"end": 30400,
+											"text": "युवा के लिए हमें यह"
+										},
+										{
+											"start": 30400,
+											"end": 33400,
+											"text": "देखना होगा कि"
+										},
+										{
+											"start": 33400,
+											"end": 34950,
+											"text": "युवा लोगों को ये काम बहुत"
+										},
+										{
+											"start": 34950,
+											"end": 36500,
+											"text": "आसानी से कर सकें ।"
+										}
+									],
+									"translatedString": "Covid-19 की रोकथाम के लिए योग: बच्चों के लिए प्रथाओं मेरे प्यारे भाइयों और बहनों Covid-19 पर इस प्रस्तुति में आपका स्वागत है । योग का एक एकीकृत मॉड्यूल। हमारे पास 3 मॉड्यूल हैं। एक युवा के लिए, दूसरा वयस्कों के लिए और तीसरा बड़ों के लिए । युवा के लिए हमें यह देखना होगा कि युवा लोगों को ये काम बहुत आसानी से कर सकें ।",
+									"alignment": "9:18-12:17 20:21-9:10 20:21-19:20 23:31-0:7 23:31-26:29 33:41-45:51 43:45-41:43 43:45-38:39 43:45-22:24 47:54-31:36 56:57-53:56 59:62-58:63 64:71-65:70 73:75-72:73 77:83-75:79 85:91-110:113 85:91-115:120 96:99-93:94 101:112-96:104 114:115-90:91 114:115-106:108 117:125-125:125 117:125-81:88 127:128-134:135 130:139-137:142 148:149-131:132 151:155-144:151 151:155-127:129 157:158-153:157 160:163-159:161 165:165-163:163 167:174-173:176 167:174-165:171 176:178-178:179 180:182-186:187 184:189-189:192 184:189-181:184 191:197-194:198 199:201-208:209 199:201-211:213 203:208-200:206 210:212-215:216 218:222-218:222 224:226-233:235 224:226-230:231 228:234-237:237 228:234-224:228 236:238-247:249 240:242-244:245 244:248-239:242 250:251-251:254 253:256-265:268 261:263-259:263 261:263-256:257 265:268-270:271 274:278-273:276 280:285-278:282 294:295-311:314 302:303-284:285 305:306-308:309 308:312-287:288 314:319-290:292 321:324-294:297 326:332-316:316 326:332-299:303",
+									"originalCaptionString": "1\n00:00:01,000 --> 00:00:08,200\nYoga For Prevention Of Covid-19: Practices For Children\n\n2\n00:00:08,200 --> 00:00:11,900\nMy dear brothers and sisters welcome to this\n\n3\n00:00:11,900 --> 00:00:16,100\npresentation on Covid-19.\n\n4\n00:00:16,100 --> 00:00:18,600\nAn integrated module of yoga.\n\n5\n00:00:18,600 --> 00:00:22,900\nWe have 3 modules.\n\n6\n00:00:22,900 --> 00:00:25,400\nOne for young, another for adults\n\n7\n00:00:25,400 --> 00:00:27,400\nand the third for elders.\n\n8\n00:00:28,400 --> 00:00:33,400\nFor the young we have to see that the\n\n9\n00:00:33,400 --> 00:00:36,500\nyoung people should be able to do these things very easily.\n",
+									"font": "Noto Sans Devanagari"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS%2FsampleVideo_jCkC.mp4"
+								],
+								"transformedPublicIds": [
+									"sampleVideo_jCkC"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "सैंपल-वीडियो"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
