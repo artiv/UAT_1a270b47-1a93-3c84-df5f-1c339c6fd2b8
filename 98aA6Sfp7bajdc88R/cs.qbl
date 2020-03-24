@@ -79,7 +79,56 @@
 										"tempo": 1
 									}
 								],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:01,000 --> 00:00:08,200\nYoga For Prevention Of Covid-19: Practices For Children\n\n2\n00:00:08,200 --> 00:00:11,900\nMy dear brothers and sisters welcome to this\n\n3\n00:00:11,900 --> 00:00:16,100\npresentation on Covid-19.\n\n4\n00:00:16,100 --> 00:00:18,600\nAn integrated module of yoga.\n\n5\n00:00:18,600 --> 00:00:22,900\nWe have 3 modules.\n\n6\n00:00:22,900 --> 00:00:25,400\nOne for young, another for adults\n\n7\n00:00:25,400 --> 00:00:27,400\nand the third for elders.\n\n8\n00:00:28,400 --> 00:00:33,400\nFor the young we have to see that the\n\n9\n00:00:33,400 --> 00:00:36,500\nyoung people should be able to do these things very easily.",
+									"parsed": [
+										{
+											"start": 1000,
+											"end": 8200,
+											"text": "Yoga For Prevention Of Covid-19: Practices For Children"
+										},
+										{
+											"start": 8200,
+											"end": 11900,
+											"text": "My dear brothers and sisters welcome to this"
+										},
+										{
+											"start": 11900,
+											"end": 16100,
+											"text": "presentation on Covid-19."
+										},
+										{
+											"start": 16100,
+											"end": 18600,
+											"text": "An integrated module of yoga."
+										},
+										{
+											"start": 18600,
+											"end": 22900,
+											"text": "We have 3 modules."
+										},
+										{
+											"start": 22900,
+											"end": 25400,
+											"text": "One for young, another for adults"
+										},
+										{
+											"start": 25400,
+											"end": 27400,
+											"text": "and the third for elders."
+										},
+										{
+											"start": 28400,
+											"end": 33400,
+											"text": "For the young we have to see that the"
+										},
+										{
+											"start": 33400,
+											"end": 36500,
+											"text": "young people should be able to do these things very easily."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/sampleVideo_2EiX_W7YR.mp4"
 								],
