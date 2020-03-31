@@ -1,0 +1,308 @@
+{
+	"fileName": "en_quickItem_2ySi.qbl",
+	"fileTemplateRepo": "UAT_1a270b47-1a93-3c84-df5f-1c339c6fd2b8",
+	"fileTemplatePath": "98aA6Sfp7bajdc88R/en_myTemplate.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "22bf3628-9f0a-4113-c811-82430841ae76",
+			"fileItemDate": "2020-03-31T10:36:08.499Z",
+			"fileItemCollections": [
+				"98aA6Sfp7bajdc88R"
+			],
+			"fileItemCollectionsForTranslation": [
+				"98aA6Sfp7bajdc88R"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "AYLTshE295jdpQ93r",
+			"possibleLanguages": [
+				"AYLTshE295jdpQ93r",
+				"S9LQBDrrWuQp34Zfb",
+				"xBDxHhGgBF2ipx5Bn",
+				"Cvjw7r3KBznPjshdh",
+				"NRmEqxf9hFvkYNcDk"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6af84f87-0f08-2ec8-5f9c-f7b78996373d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "c779eaeb-3870-d680-73cd-1d1d215e5ac5",
+						"fieldValues": [
+							{
+								"public_id": "modernFamMov_evF8_RZGh",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_iNXdWDq7wmqGWTqsS%2FmodernFamMov_evF8_RZGh.mp4?generation=1585650959390233&alt=media",
+								"originalName": "modernFamMov",
+								"size": "977008",
+								"lastModified": 1576509500090,
+								"lastModifiedDate": "2020-03-31T10:35:59.390Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamMov_evF8_RZGh.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.279,
+										"duration": 30.279,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:03,100 --> 00:00:06,200\nI'm a cool guy. That's that's nothing.\n\n2\n00:00:07,500 --> 00:00:09,500\nI'm here at 5 i surf the web I\n\n3\n00:00:09,500 --> 00:00:10,100\ntext\n\n4\n00:00:10,100 --> 00:00:10,700\nLOL.\n\n5\n00:00:10,700 --> 00:00:11,500\nLaugh out loud\n\n6\n00:00:11,500 --> 00:00:13,200\nOMG. Oh my God\n\n7\n00:00:13,200 --> 00:00:14,700\nWTF why the FaZe?\n\n8\n00:00:14,700 --> 00:00:18,400\nYou know, I know all the dances to High School Musical\n\n9\n00:00:18,400 --> 00:00:20,200\nWe're All in\n\n10\n00:00:20,200 --> 00:00:20,900\nThis\n\n11\n00:00:20,900 --> 00:00:21,600\nTogether.\n\n12\n00:00:21,600 --> 00:00:23,900\nYes, we are\n\n13\n00:00:23,900 --> 00:00:25,200\nall stars.\n",
+									"parsed": [
+										{
+											"start": 3100,
+											"end": 6200,
+											"text": "I'm a cool guy. That's that's nothing."
+										},
+										{
+											"start": 7500,
+											"end": 9500,
+											"text": "I'm here at 5 i surf the web I"
+										},
+										{
+											"start": 9500,
+											"end": 10100,
+											"text": "text"
+										},
+										{
+											"start": 10100,
+											"end": 10700,
+											"text": "LOL."
+										},
+										{
+											"start": 10700,
+											"end": 11500,
+											"text": "Laugh out loud"
+										},
+										{
+											"start": 11500,
+											"end": 13200,
+											"text": "OMG. Oh my God"
+										},
+										{
+											"start": 13200,
+											"end": 14700,
+											"text": "WTF why the FaZe?"
+										},
+										{
+											"start": 14700,
+											"end": 18400,
+											"text": "You know, I know all the dances to High School Musical"
+										},
+										{
+											"start": 18400,
+											"end": 20200,
+											"text": "We're All in"
+										},
+										{
+											"start": 20200,
+											"end": 20900,
+											"text": "This"
+										},
+										{
+											"start": 20900,
+											"end": 21600,
+											"text": "Together."
+										},
+										{
+											"start": 21600,
+											"end": 23900,
+											"text": "Yes, we are"
+										},
+										{
+											"start": 23900,
+											"end": 25200,
+											"text": "all stars."
+										}
+									],
+									"isAttached": false
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_iNXdWDq7wmqGWTqsS/modernFamMov_evF8_RZGh.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamMov_evF8_RZGh"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfammov_evf8"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ab80ae7e-c923-b725-51fc-586551ea318d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "6027da88-e98c-afc3-bc16-d451d25c9cd1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "428935a9-8337-2324-ac07-3d86dfda7745",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "eb701003-8660-ef50-afea-455090c3328d",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "40fee60c-1f0f-4374-fb56-43a5e1b7a448",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsEditableCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsRequiredCollections": [
+							"98aA6Sfp7bajdc88R"
+						],
+						"fieldIsMultipleCollections": [
+							"98aA6Sfp7bajdc88R"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "45bedb68-9d92-4603-c99c-0d0fd988a0e5",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
